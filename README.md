@@ -9,8 +9,6 @@
 
 > sudo usermod -aG sudo grs
 
-> sudo usermod -aG sudo grs
-
 > sudo passwd grs
 
 ### make admin
