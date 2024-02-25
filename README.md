@@ -1,5 +1,9 @@
 # gilbertpwns.github.io
 
+./opsec.md
+
+
+## DEBIAN COMMANDS
 
 > lsb_release -a
 
@@ -19,6 +23,8 @@ groups username
 su - username
 sudo echo "I have sudo access!"
 ```
+
+## LINUX PACKAGES
 
 ### xrdp
 
