@@ -1,7 +1,6 @@
 # gilbertpwns.github.io
 
-./opsec.md
-
+* [opsec](./opsec.md)
 
 ## DEBIAN COMMANDS
 
