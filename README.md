@@ -1,6 +1,7 @@
 # gilbertpwns.github.io
 
 * [opsec](./opsec.md)
+* [resources](./resouces.md)
 
 ## DEBIAN COMMANDS
 
