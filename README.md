@@ -37,6 +37,8 @@ sudo apt install xfce4
 sudo systemctl restart xrdp
 ```
 
+## Manifesto
 
+[My oath.](./manifesto/README.md)
 
 ---
