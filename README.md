@@ -2,6 +2,8 @@
 
 Welcome! [Join my Discord!](https://discord.gg/w33yCErD)
 
+![tonberry-pusheen](./img/tonberry-pusheen.png)
+
 * [FAQ (Work in Progress)](./#)
 
 ## MediaBanditsHeckYeah
@@ -14,6 +16,10 @@ Welcome! [Join my Discord!](https://discord.gg/w33yCErD)
 * [opsec](opsec/opsec.md)
 * [useful commands](/intros-and-documentation/common-user-commands.md)
 * [resources](resources/README.md)
+
+### Cloud Platforms
+
+* [GCP - Google Cloud Platform](./cloud/google-cloud-platform/quiklabs/README.md)
 
 ## Manifesto
 
