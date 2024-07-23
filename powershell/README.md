@@ -9,3 +9,5 @@ Welcome to the powershell repo.
 [pluralsight for powershell](https://www.pluralsight.com/paths/powershell-7-fundamentals)
 
 ---
+
+↩️ [BACK](../README.md)
