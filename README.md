@@ -1,41 +1,14 @@
-# gilbertpwns.github.io
+# Table
 
-* [opsec](./opsec.md)
-* [resources](./resouces.md)
+## MediaBanditsHeckYeah
 
-## DEBIAN COMMANDS
+* [what is this?](./mediabanditsheckyeah/README.md)
 
-> lsb_release -a
+## Computer Hacking
 
-## common
-
-> sudo adduser grs
-
-> sudo usermod -aG sudo grs
-
-> sudo passwd grs
-
-### make admin
-
-```
-sudo usermod -aG sudo username
-groups username
-su - username
-sudo echo "I have sudo access!"
-```
-
-## LINUX PACKAGES
-
-### xrdp
-
-```
-sudo apt install xrdp
-sudo systemctl start xrdp
-sudo systemctl enable xrdp
-sudo ufw allow 3389/tcp
-sudo apt install xfce4
-sudo systemctl restart xrdp
-```
+* [opsec](.opsec/opsec.md)
+* [useful commands](./intros-and-documentation/common-user-commands.md)
+* [resources](.resources/README.md)
 
 ## Manifesto
 
