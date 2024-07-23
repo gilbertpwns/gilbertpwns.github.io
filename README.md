@@ -12,6 +12,6 @@
 
 ## Manifesto
 
-[My oath.](./manifesto/README.md)
+[Dev Updates and News](./manifesto/README.md)
 
 ---
