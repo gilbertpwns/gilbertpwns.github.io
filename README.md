@@ -1,5 +1,9 @@
 # Table
 
+Welcome! [Join my Discord!](https://discord.gg/w33yCErD)
+
+* [FAQ (Work in Progress)](./#)
+
 ## MediaBanditsHeckYeah
 
 * [what is this?](./mediabanditsheckyeah/README.md)
