@@ -1,6 +1,8 @@
 # Table
 
-Welcome! [Join my Discord!](https://discord.gg/w33yCErD)
+Welcome! [Join my Discord!](https://discord.gg/w33yCErD) 
+
+P.S. don't join i don't like you
 
 ![tonberry-pusheen](./img/tonberry-pusheen.png)
 
