@@ -14,7 +14,7 @@
 * [opsec](opsec/opsec.md)
 * [hardening](opsec/hardening-linux-distros.md)
 
-### Cloud Platforms
+## Cloud Platforms
 
 * [GCP - Google Cloud Platform](./cloud/google-cloud-platform/quiklabs/README.md)
 
