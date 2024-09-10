@@ -20,8 +20,8 @@
 
 ## MediaBanditsHeckYeah
 
-* [Product Page to be Deployed for Production](./production/index.html)
 * [what is this?](./mediabanditsheckyeah/README.md)
-* [private](./private-words.md)
+* [Product Page to be Deployed for Production](./production/index.html)
+* [private-words](./mediabanditsheckyeah/private-words.md)
 
 ---
