@@ -28,7 +28,7 @@ I'm tired of committin' so many sins
 Tired of always givin' in when this bottle of Henny wins
 Tired of never havin' any ends
 
-Tired of havin' skinny friends hooked on crack and Mini Thins
+Tired of havin' skinny friends hooked on crck and Mini Thins
 I'm tired of this DJ playin' your shit when he spins
 
 Tired of not havin' a deal
@@ -69,7 +69,7 @@ Tired of not workin' at GM, tired of wantin' to be him
 Tired of not sleepin' without a Tylenol PM
 Tired of not performin' in a packed coliseum
 Tired of not bein' on tour
-Tired of fu*kin' the same blonde whore after work in the back of a Contour
+Tired of fu*kin' the same blonde wh*re after work in the back of a Contour
 
 I'm tired of fakin' knots with a stack of ones
 
@@ -77,12 +77,12 @@ Havin' a lack of funds and resortin' back to guns
 Tired of bein' stared at
 Tired of wearin' the same damn Nike Air hat
 Tired of steppin' in clubs, wearin' the same pair of Lugz
-Tired of people sayin' they're tired of hearin' me rap about drugs
+Tired of people sayin' they're tired of hearin' me rap about dr*gs
 Tired of other rappers who ain't bringin' half the skill as me
 Sayin' they wasn't feelin' me on "Nobody's As Ill As Me"
 
 And I'm tired of radio stations tellin' fibs
-Tired of JLB sayin', "Where hip-hop lives" (Where hip-hop lives)
+Tired of JLB sayin', "Where hip-hop lives"
 
 But if I had a million dollars
 I'd buy a damn brewery and turn the planet into alcoholics
