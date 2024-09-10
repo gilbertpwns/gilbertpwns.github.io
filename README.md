@@ -1,17 +1,6 @@
 # Table
 
-Welcome! [Join my Discord!](https://discord.gg/w33yCErD) 
-
-P.S. don't join i don't like you
-
 ![tonberry-pusheen](./img/tonberry-pusheen.png)
-
-* [FAQ (Work in Progress)](./#)
-
-## MediaBanditsHeckYeah
-
-* [Product Page to be Deployed for Production](./production/index.html)
-* [what is this?](./mediabanditsheckyeah/README.md)
 
 ## Computer Hacking
 
@@ -24,8 +13,9 @@ P.S. don't join i don't like you
 
 * [GCP - Google Cloud Platform](./cloud/google-cloud-platform/quiklabs/README.md)
 
-## Manifesto
+## MediaBanditsHeckYeah
 
-[Dev Updates and News](./manifesto/README.md)
+* [Product Page to be Deployed for Production](./production/index.html)
+* [what is this?](./mediabanditsheckyeah/README.md)
 
 ---

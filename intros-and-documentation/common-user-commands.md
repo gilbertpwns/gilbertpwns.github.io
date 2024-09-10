@@ -34,6 +34,18 @@ sudo apt install xfce4
 sudo systemctl restart xrdp
 ```
 
+### ssh
+
+```
+sudo apt install openssh-server
+sudo systemctl start ssh
+sudo systemctl enable ssh
+sudo systemctl status ssh
+sudo ufw allow ssh
+sudo ufw status
+ip a
+```
+
 ---
 
 ↩️ [BACK](../README.md)
