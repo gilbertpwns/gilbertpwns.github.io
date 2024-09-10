@@ -36,7 +36,7 @@ Tired of havin' to deal with the bullshit without grabbin' the steel
 Tired of drownin' in my sorrow
 Tired of havin' to borrow a dollar for gas to start my Monte Carlo
 
-I'm tired of motherfuckers sprayin' shit and dartin' off
+I'm tired of motherfu*kers sprayin' shit and dartin' off
 I'm tired of jobs startin' off at $5.50 an hour
 Then this boss wonders why I'm smartin' off
 
@@ -51,7 +51,7 @@ But if I had a million dollars
 I'd buy a damn brewery and turn the planet into alcoholics
 
 If I had a magic wand
-I'd make the world suck my dick without a condom on while I'm on the john (I could set my troubles free)
+I'd make the world suck my di*k without a condom on while I'm on the john (I could set my troubles free)
 
 If I had a million bucks
 It wouldn't be enough 'cause I'd still be out robbin' armored trucks 
@@ -69,7 +69,7 @@ Tired of not workin' at GM, tired of wantin' to be him
 Tired of not sleepin' without a Tylenol PM
 Tired of not performin' in a packed coliseum
 Tired of not bein' on tour
-Tired of fuckin' the same blonde whore after work in the back of a Contour
+Tired of fu*kin' the same blonde whore after work in the back of a Contour
 
 I'm tired of fakin' knots with a stack of ones
 
@@ -88,7 +88,7 @@ But if I had a million dollars
 I'd buy a damn brewery and turn the planet into alcoholics
 
 If I had a magic wand
-I'd make the world suck my dick without a condom on while I'm on the john (I could set my troubles free)
+I'd make the world suck my di*k without a condom on while I'm on the john (I could set my troubles free)
 
 If I had a million bucks
 It wouldn't be enough 'cause I'd still be out robbin' armored trucks 
