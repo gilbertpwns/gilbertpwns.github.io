@@ -22,6 +22,6 @@
 
 * [Product Page to be Deployed for Production](./production/index.html)
 * [what is this?](./mediabanditsheckyeah/README.md)
-* [private](./private.md)
+* [private](./private-words.md)
 
 ---
