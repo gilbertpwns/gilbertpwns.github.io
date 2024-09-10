@@ -25,8 +25,6 @@ most landing pages use workpress, and are pretty much the meta in spreading due 
 
 ## spreading your payload
 
-
-
 ## profiting rom installs (monetization)
 
 ## staying anonymous
