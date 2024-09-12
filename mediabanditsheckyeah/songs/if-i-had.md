@@ -117,4 +117,4 @@ That's my word
 
 ---
 
-↩️ [BACK](./README.md)
+↩️ [BACK](../private-words.md)
