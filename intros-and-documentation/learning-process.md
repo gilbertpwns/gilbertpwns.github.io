@@ -23,7 +23,9 @@ In psychology, will is considered a descriptive construct that presupposes a con
 
 Will is used in different contexts and has several meanings: the mental act from which an impulse to achieve specific goals emanates and the setting of goals, and the ultimate translation of these personally or collectively made decisions into action, that is, into conscious and deliberate or even planned action.
 
+*Fear is a state and the product of our imagination of the future and its consequences where the present is suppressed.*
 
+Fear is essential and healthy in life-threatening 
 
 ---
 

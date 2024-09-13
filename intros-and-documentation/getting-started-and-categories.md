@@ -6,7 +6,7 @@
 
 ### Introductory
 
-* Learning Process
+* [Learning Process](./getting-started-and-categories.md)
 * Getting Started
 * Setting Up
 * OSINT: Corporate Recon
