@@ -2,7 +2,7 @@
 
 [comment]: <> ![tonberry-pusheen](./img/tonberry-pusheen.png)
 [comment]: <> ![cactaur-pusheen](./img/cactaur-pusheen.png)
-[chocobo-pusheen](./img/chocobo-pusheen.png)
+![chocobo-pusheen](./img/chocobo-pusheen.png)
 
 ## Computer Hacking
 
