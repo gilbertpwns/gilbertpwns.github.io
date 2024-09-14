@@ -1,7 +1,7 @@
 # Table
 
 [comment]: <> ![tonberry-pusheen](./img/tonberry-pusheen.png)
-![cactaur-pusheen](./img/cactaur-pusheen.png)
+[cactaur-pusheen](./img/cactaur-pusheen.png)
 
 ## Computer Hacking
 
