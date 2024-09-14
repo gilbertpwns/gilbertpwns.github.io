@@ -23,16 +23,6 @@ sudo echo "I have sudo access!"
 
 ## LINUX PACKAGES
 
-### xrdp
-
-```
-sudo apt install xrdp
-sudo systemctl start xrdp
-sudo systemctl enable xrdp
-sudo ufw allow 3389/tcp
-sudo apt install xfce4
-sudo systemctl restart xrdp
-```
 
 ### ssh
 
@@ -44,6 +34,19 @@ sudo systemctl status ssh
 sudo ufw allow ssh
 sudo ufw status
 ip a
+```
+
+### installing xrdp
+
+This installs the package, enables, and permits the firewall port.
+
+```
+sudo apt install xrdp
+sudo systemctl start xrdp
+sudo systemctl enable xrdp
+sudo ufw allow 3389/tcp
+sudo apt install xfce4
+sudo systemctl restart xrdp
 ```
 
 ---

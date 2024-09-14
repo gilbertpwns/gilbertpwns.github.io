@@ -25,7 +25,18 @@ Will is used in different contexts and has several meanings: the mental act from
 
 *Fear is a state and the product of our imagination of the future and its consequences where the present is suppressed.*
 
-Fear is essential and healthy in life-threatening 
+Fear is essential and healthy in life-threatening and health-threatening situations. However, sitting in a chair in front of a computer afraid of not being up to the tasks we find here, is irrational. After all, we have not yet worked through most of the material, but we are already beginning to program (adjust) ourselves to fail. So let's ask if this fear is real:
+
+* have we already worked through all the material?
+* have we already seen what is being taught and how it is being taught?
+* do we already have the skills that are expected of us?
+
+## The Goal
+
+The results of a meta-analysis of over 200 studies with more than 40,000 participants show that over 90 percent of people are significantly more successful in achieving their dreams **by setting challenging and specific goals**.
+
+In short, no matter what the goal is: we must decide on it.
+
 
 ---
 
