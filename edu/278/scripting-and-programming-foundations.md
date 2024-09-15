@@ -3,7 +3,7 @@
 # Sections
 
 ## [Intro](./#)
-## Variables-Assignments(./variables-and-assignments.md)
+## [Variables-Assignments](./variables-and-assignments.md)
 ## Branches
 ## Loops
 ## Arrays
