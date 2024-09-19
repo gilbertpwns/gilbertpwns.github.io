@@ -19,6 +19,7 @@
 ## Cloud Platforms
 
 * [GCP - Google Cloud Platform](./cloud/google-cloud-platform/quiklabs/README.md)
+* [Associate Cloud Engineer Cert](./cloud/google-cloud-platform/associate-cloud-engineer.md)
 
 ## MediaBanditsHeckYeah
 

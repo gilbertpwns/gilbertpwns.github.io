@@ -49,9 +49,21 @@ A **function** is a list of statements executed by invoking the function's name,
 | function | behavior | example
 |:-:|:-:|:-:|
 | SquareRoot(x)	| Square root of x | SquareRoot(9.0) evaluates to 3.0. |
-| RaiseToPower(x, y) | Raise x to power y:x^y | | RaiseToPower(6.0, 2.0) evaluates to 36.0. |
+| RaiseToPower(x, y) | Raise x to power y:x^y | RaiseToPower(6.0, 2.0) evaluates to 36.0. |
 | AbsoluteValue(x) | Absolute value of x | AbsoluteValue(-99.5) evaluates to 99.5. | 
+
+### Calls in arguments
+
+Commonly a function call's argument itself includes a function call. Below, x^2,  is computed via RaiseToPower(x, y). The result is used in an expression that is an argument to another call, in this case to RaiseToPower() again: RaiseToPower(2.0, RaiseToPower(x, y) + 1).
+
+## 2.9 Random Numbers
+
+### generating a random number
+
+Some programs need to use a random number. Ex: A game program may need to roll dice, or a website program may generate a random initial password.
+
+The **RandomNumber()** function is a built-in Coral function that takes two arguments, lowValue and highValue, and returns a random integer in the range lowValue to highValue. Ex: RandomNumber(1, 10) returns a random integer in the range 1 to 10.
 
 ---
 
-↩️ [BACK](../README.md)
+↩️ [BACK](./scripting-and-programming-foundations.md)
