@@ -2,9 +2,6 @@
 
 ![cactaur-pusheen](./img/cactaur-pusheen.png)
 
-[comment]: <> ![chocobo-pusheen](./img/chocobo-pusheen.png)
-[comment]: <> ![tonberry-pusheen](./img/tonberry-pusheen.png)
-
 ## Computer Hacking
 
 * [Bad Meets Evil](./intros-and-documentation/getting-started-and-categories.md)
@@ -16,8 +13,8 @@
 
 * [opsec](opsec/opsec.md)
 * [hardening](opsec/hardening-linux-distros.md)
-
 * [edu](./edu/edu.md)
+* [PC resources](./PC/raspberry-pi.md)
 
 ## Cloud Platforms
 
