@@ -14,7 +14,7 @@
 * [opsec](opsec/opsec.md)
 * [hardening](opsec/hardening-linux-distros.md)
 * [edu](./edu/edu.md)
-* [PC resources](./PC/raspberry-pi.md)
+* [PC resources](./pc/raspberry-pi.md)
 
 ## Cloud Platforms
 
