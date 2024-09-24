@@ -23,7 +23,7 @@
 
 ## MediaBanditsHeckYeah
 
-* [what is this?](./mediabanditsheckyeah/README.md)
+* [Manifesto](./mediabanditsheckyeah/README.md)
 * [Product Page to be Deployed for Production](./production/index.html)
 * [private-words](./mediabanditsheckyeah/private-words.md)
 
