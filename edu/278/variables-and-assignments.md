@@ -105,6 +105,48 @@ For integer division, the second operand of / or % must never be 0, because divi
 
 The expression in the parentheses is evaluated first, yielding 0 due to integer division. Then 100 * 0 is 0. 
 
+4.)
+
+> 100 / (1 / 2)
+
+Answer: Error
+
+The expression in the parentheses is evaluated first, yielding 0 due to integer division. Then 100 / 0 is undefined and causes the program to terminate. 
+
+5.
+
+```
+x = 2;
+y = 5;
+z = 1 / (y - x - 3);
+```
+
+Answer: Error
+
+The expression in the parentheses is evaluated first: 5 - 2 - 3 is 0. Then 1 / 0 is undefined and causes the program to terminate. 
+
+## 2.10.1: Integer Divison
+
+## 2.11 Type conversion
+
+Type conversions
+
+A **type conversion** is a conversion of one data type to another, such as an integer to a float. Coral automatically performs several common conversions between integer and float types, and such automatic conversion is known as **implicit conversion**. 
+
+* For an arithmetic operator like + or *, if either operand is a float, the other is automatically converted to float, and then a floating-point operation is performed.
+* For assignments, the right side type is converted to the left side type.
+
+---
+
+* *integer-to-float* conversion is straightforward: 25 becomes 25.0
+* *float-to-integer* just drops the fraction: 4.9 becomes 4
+
+## 2.11.1: Implicit type conversion: integer-to-float
+
+![implicit type conversion](../edu-img/implicit-type-conversation.png)
+
+
+
 ---
 
 ↩️ [BACK](./scripting-and-programming-foundations.md)
