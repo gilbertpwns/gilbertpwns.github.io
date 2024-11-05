@@ -1,6 +1,6 @@
 # Education
 
-* [278](./278/scripting-and-programming-foundations.md)
+* [278](./278/table-of-content.md)
 
 ---
 
