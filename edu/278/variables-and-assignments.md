@@ -168,8 +168,26 @@ This chapter's key points included:
 * The modulo operator (%) evaluates to the remainder of the division of two integer operands. 
 * A constant is a named value item that holds a value that cannot change. Constants are commonly used in programs to hold the value of mathematical constants or a value that should not change during the program's execution. 
 
+# 2.17 LAB: Introduction: House Real Estate Summary
 
+Sites like Zillow get input about house prices from a database and provide nice summaries for readers. 
+
+Write a program with two inputs, current price and last month's price (both integers). Then, output a summary listing the price, the change since last month, and the estimated monthly mortgage computed as (currentPrice * 0.045) / 12.
+
+Output the estimated monthly mortgage (estMortgage) with two digits after the decimal point, which can be achieved as follows:
+
+```Put estMortgage to output with 2 decimal places```
+
+Example input
+
+```200000 210000```
+
+Example Output
+
+```This house is $200000. The change is $-10000 since last month. The estimated monthly mortgage is $750.00.```
+
+Note: Getting the precise spacing, punctuation, and newlines exactly right is a key point of this assignment. Such precision is an important part of programming.
 
 ---
 
-↩️ [BACK](./scripting-and-programming-foundations.md)
+↩️ [BACK](./table-of-content.md)
