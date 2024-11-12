@@ -13,6 +13,7 @@
 
 * [opsec](opsec/opsec.md)
 * [hardening](opsec/hardening-linux-distros.md)
+* [attack](./OXYBLUE/README.md)
 * [edu](./edu/edu.md)
 * [PC resources](./pc/raspberry-pi.md)
 
