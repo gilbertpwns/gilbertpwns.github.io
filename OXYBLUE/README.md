@@ -38,8 +38,8 @@ There are six differnt states
 * *closed*  when a port is shown as closed, the TCP protocol indicates that the packet we recieved back contains contains an **RST** flag. This scanning method can also be used to determine i four target is alive or not.
 * *filtered* - Nmap cannot correctly identify whether the scanned port is open or closed because either no respose is returneed from the target from the target port or we get an error code rom the target. 
 * *unfiltered* - This state of a port only occurs during tnhe **TCP-ACK** scan an means that the port is accessible,
-* *open|filtered* - if we di bit get a resonse for a specific port, **nnmap** will set it to that state, This indicates that the firewall or packet filter may protect the port
-* *closed|filtered* - This state only occurs in the **IP ID idle** scans and indicates that it was impossible to determine if the scanned port is closed or filtered by the Firewall
+* *open\|filtered* - if we di bit get a resonse for a specific port, **nnmap** will set it to that state, This indicates that the firewall or packet filter may protect the port
+* *closed\|filtered* - This state only occurs in the **IP ID idle** scans and indicates that it was impossible to determine if the scanned port is closed or filtered by the Firewall
 
 ## Discovering Open TCP Ports
 
