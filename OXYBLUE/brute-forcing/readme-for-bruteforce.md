@@ -32,8 +32,42 @@ A trial-and-error method used to crack passwords, login credentials, or encrypti
 | Reverse Brute Attack | Targets a known password against multiple usernames | Whens there's a suspicion  of password reuse across multiple accounts. |
 | Distributed Brute Force | Distributes brute force attempts across multiple machines to speed up the process | When the password is slightly complex, and a single machine isn't powerful enough|
 
+## Default Credentials
 
+| Device | Username | Password |
+|:-:|:-:|:-:|
+| Linksys Router | admin | admin |
+| Netgear Router | admin | password |
+| TP-Link Router | admin | admin |
+| Cisco Router | cisco | cisco |
+| Ubiquiti Router | ubnt | ubnt |
 
+## Brute-Forcing Tools
+
+### hydra
+
+* fast network login cracker
+* supports numerous protocols
+* uses parallel connections for speed
+* flexible and adaptable
+* relatively easy to use
+
+> hydra [-l LOGIN|-L FILE] [-p PASS|-P FILE] [-C FILE] -m MODULE [service://server[:PORT][/OPT]]
+
+| Hydra Service | Service/Protocol | Description | Example Command |
+|:-:|:-:|:-:|:-:| 
+| ftp | file transfer protocol (FTP) | used to brute-force login credentials for FTP services,commonly used to transfer files over a network | hydra -l admin -P /path/to/password_list.txt ftp://192.168.1.100 |
+| ssh |  secure shell (SSH) | targets SSH services to brute-force credentials, commonly used for secure remote login to systems | hydra -l root -P /path/to/password_list.txt ssh://192.168.1.100 |
+| http-get/post | HTTP web services | used to brute-force login credentials for HTTP web login forms using either GET or POST request | hydra -l admin -P /path/to/password_list.txt 127.0.0.1 http-post-form "/login.php:user=^USER^&pass=^PASS^:F=incorrect" | 
+
+### medusa
+
+* fast, massively parallel, modular login brute-forcer
+* supports a wide array of services
+
+> medusa [-h host|-H file] [-u username|-U file] [-p password|-P file] [-C file] -M module [OPT]
+
+## custom wordlists
 
 ---
 
