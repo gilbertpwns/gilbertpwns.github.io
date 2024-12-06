@@ -12,6 +12,7 @@
 ## Elementary School
 
 * [opsec](opsec/opsec.md)
+    + [tor](opsec/tor/tor.md)
 * [hardening](opsec/hardening-linux-distros.md)
 * [attack](./OXYBLUE/README.md)
 * [edu](./edu/edu.md)
