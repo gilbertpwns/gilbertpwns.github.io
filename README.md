@@ -1,11 +1,8 @@
 # Table
 
-Welcome!
-
 ![cactaur-pusheen](./img/cactaur-pusheen.png)
 
-Please feel free to learn. Imitatiom is the highest form of flattery. However, I'd much more prefer and love to hear from you directly, or any feedback in general. Peace be unto you.
-
+Please feel free to learn. Imitation is the highest form of flattery. However, I'd much more prefer and love to hear from you directly, or any feedback in general. Peace be unto you.
 
 ---
 
@@ -23,14 +20,14 @@ Please feel free to learn. Imitatiom is the highest form of flattery. However, I
 
 Go away unless you know what you're doing.
 
-## Cloud Platforms
+### Cloud Platforms
 
 * [GCP - Google Cloud Platform](./cloud/google-cloud-platform/quiklabs/README.md)
 * [Associate Cloud Engineer Cert](./cloud/google-cloud-platform/associate-cloud-engineer.md)
 
 ## --- [Fun/Miscellaneous ] ---
 
-## MediaBanditsHeckYeah
+### MediaBanditsHeckYeah
 
 * [Manifesto](./mediabanditsheckyeah/README.md)
 * [Product Page to be Deployed for Production](./production/index.html)
