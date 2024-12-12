@@ -16,6 +16,7 @@ Please feel free to learn. Imitatiom is the highest form of flattery. However, I
 ## --- [Intermediate] ---
 
 * [nmap](./operator/nmap/nmap.md)
+* [hashcat](./operator/hashcat/hashcat.md)
 
 
 ## --- [Advanced] ---
