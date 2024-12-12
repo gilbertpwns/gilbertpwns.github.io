@@ -18,8 +18,6 @@ Please feel free to learn. Imitation is the highest form of flattery. However, I
 
 ## --- [Advanced] ---
 
-Go away unless you know what you're doing.
-
 ### Cloud Platforms
 
 * [GCP - Google Cloud Platform](./cloud/google-cloud-platform/quiklabs/README.md)
