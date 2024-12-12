@@ -1,28 +1,3 @@
-# Toolset
-
-You'll need this, jsut like in any other trade or craft. A proper tool kit will enhance your abilities like no other.
-
-## Table of Contents
-
-* [Brute Forcing](./brute-forcing/readme-for-bruteforce.md)
-
-# Topics
-
-This will include fundamental knowledge mostly, that is absolutely a requiremnt if you'd like to know what you're actually doing. Also - this list is subject to growing and changes.  I'll make it in the form of a checklist:
-
-## Host Discovery
-
-- [ ] Enumeration
-- [ ] Nmap
-- [ ] Host Discovery
-- [ ] Host and Port Scanning
-- [ ] Saving Results
-- [ ] Service Enumerations
-
-## Bypassing Security Measures
-
-- [ ]  Firewall and IDS/IPS Evation
-
 ## Host Discovery
 
 You can only understand results if we know what they mean and how they're obtained. With that said, let's kick it off. This is what you need:
@@ -47,7 +22,7 @@ By default, **Nmap** scans the top 1000 TCP ports with the SYN scan (-sS). This 
 
 We can define the ports one by one ```-p 22,25,80,139,445```, by range ```-p 22-445```, by top ports ```--top-ports=10``` from the Nmap database that have been signed as most frequent, by scanning all ports ```-p-``` but also by defining a fast port scan, which contains top 100 ports ```-F```.
 
-
+---
 
 ---
 

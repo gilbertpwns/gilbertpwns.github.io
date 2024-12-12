@@ -9,25 +9,14 @@ Please feel free to learn. Imitatiom is the highest form of flattery. However, I
 
 ---
 
-## --- [Fun/Beginner] ---
+## --- [Intoductory] ---
 
-Fun stuff.
-
-## MediaBanditsHeckYeah
-
-* [Manifesto](./mediabanditsheckyeah/README.md)
-* [Product Page to be Deployed for Production](./production/index.html)
-* [private-words](./mediabanditsheckyeah/private-words.md)
+* [Scripting and Programming Foundations](./edu/278/table-of-content.md)
 
 ## --- [Intermediate] ---
 
-Great place to start. Great place to learn.
+* [nmap](./operator/nmap/nmap.md)
 
-## Elementary School
-
-* [attack](./OXYBLUE/README.md)
-* [edu](./edu/edu.md)
-* [PC resources](./pc/raspberry-pi.md)
 
 ## --- [Advanced] ---
 
@@ -38,13 +27,12 @@ Go away unless you know what you're doing.
 * [GCP - Google Cloud Platform](./cloud/google-cloud-platform/quiklabs/README.md)
 * [Associate Cloud Engineer Cert](./cloud/google-cloud-platform/associate-cloud-engineer.md)
 
-## Computer Hacking
+## --- [Fun/Miscellaneous ] ---
 
-* [opsec](opsec/opsec.md)
-    + [tor](opsec/tor/tor.md)
-* [hardening](opsec/hardening-linux-distros.md)
-* [Bad Meets Evil](./intros-and-documentation/getting-started-and-categories.md)
-* [useful commands](/intros-and-documentation/common-user-commands.md)
-* [resources](resources/README.md)
+## MediaBanditsHeckYeah
+
+* [Manifesto](./mediabanditsheckyeah/README.md)
+* [Product Page to be Deployed for Production](./production/index.html)
+* [private-words](./mediabanditsheckyeah/private-words.md)
 
 ---
