@@ -9,8 +9,6 @@ Please feel free to learn. Imitation is the highest form of flattery. However, I
 
 * [Scripting and Programming Foundations](./edu/278/table-of-content.md)
 
-## --- [Intermediate] ---
-
 ### Basic Toolset
 
 [Basic Toolset Introductions](./operator/basic-toolset/basic-toolset.md)
@@ -20,7 +18,11 @@ Please feel free to learn. Imitation is the highest form of flattery. However, I
 * hashcat
 * SQLMap Essentials
 * Network Traffic Analysis
-* Web Proxies
+* Web Proxies 
+
+## --- [Intermediate] ---
+
+* Local Privilege Escalation - IN PROGRESS
 
 
 ## --- [Advanced] ---
