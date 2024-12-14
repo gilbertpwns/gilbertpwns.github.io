@@ -12,8 +12,15 @@ Please feel free to learn. Imitation is the highest form of flattery. However, I
 ## --- [Intermediate] ---
 
 ### Basic Toolset
-* [nmap](./operator/nmap/nmap.md)
-* [hashcat](./operator/hashcat/hashcat.md)
+
+[Basic Toolset Introductions](./operator/basic-toolset/basic-toolset.md)
+
+* nmap
+* Brute Forcing
+* hashcat
+* SQLMap Essentials
+* Network Traffic Analysis
+* Web Proxies
 
 
 ## --- [Advanced] ---
