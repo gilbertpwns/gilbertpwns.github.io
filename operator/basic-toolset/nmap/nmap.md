@@ -1,4 +1,16 @@
-## Host Discovery
+# Host Discovery
+
+- [ ] Enumeration
+- [ ] Nmap
+- [ ] Host Discovery
+- [ ] Host and Port Scanning
+- [ ] Saving Results
+- [ ] Service Enumerations
+
+## Bypassing Security Measures
+
+- [ ]  Firewall and IDS/IPS Evation
+
 
 You can only understand results if we know what they mean and how they're obtained. With that said, let's kick it off. This is what you need:
 
@@ -43,5 +55,5 @@ Scans like the SYN scan (also known as a half-open scan) are generally considere
 
 ---
 
-↩️ [BACK](./README.md)
+↩️ [BACK](../../README.md)
 
