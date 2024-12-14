@@ -1,6 +1,6 @@
 # Toolset
 
-You'll need this, jsut like in any other trade or craft. A proper tool kit will enhance your abilities like no other.
+You'll need this, just like in any other trade or craft. A proper tool kit will enhance your abilities like no other.
 
 ## Table of Contents
 
@@ -14,7 +14,5 @@ You'll need this, jsut like in any other trade or craft. A proper tool kit will 
 * [Web Proxies](./basic-toolset/web-proxies/web-proxies.md)
 
 ---
-
-↩️ [BACK](./README.md)
 
 ↩️ [gilbertpwns](../README.md)
