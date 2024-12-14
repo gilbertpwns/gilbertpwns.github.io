@@ -1,0 +1,5 @@
+# Arrays
+
+---
+
+↩️ [BACK](./../edu.md)

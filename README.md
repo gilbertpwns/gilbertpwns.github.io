@@ -34,10 +34,4 @@ Please feel free to learn. Imitation is the highest form of flattery. However, I
 
 ## --- [Fun/Miscellaneous ] ---
 
-### MediaBanditsHeckYeah
-
-* [Manifesto](./mediabanditsheckyeah/README.md)
-* [Product Page to be Deployed for Production](./production/index.html)
-* [private-words](./mediabanditsheckyeah/private-words.md)
-
 ---
