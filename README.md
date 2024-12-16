@@ -29,7 +29,10 @@ Please feel free to learn. Imitation is the highest form of flattery. However, I
 
 ### Cloud Platforms
 
-* [GCP - Google Cloud Platform](./cloud/google-cloud-platform/quiklabs/README.md)
+#### GCP - Google Cloud Platform
+
+* [Cloud Engineer Cert](./cloud/gcp/cloud-engineer-learning-path/learning-path.md)
+
 * [Associate Cloud Engineer Cert](./cloud/google-cloud-platform/associate-cloud-engineer.md)
 
 ## --- [Fun/Miscellaneous ] ---
