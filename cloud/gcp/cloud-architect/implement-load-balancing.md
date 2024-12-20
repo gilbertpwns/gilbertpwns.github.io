@@ -74,7 +74,7 @@ gcloud config set compute/zone us-east1-b --project qwiklabs-gcp-01-25afd165c52c
 <h3>Web Server: www1</h3>" | tee /var/www/html/index.html'
 ```
 
-```INPUT S1 WW1
+```
 student_02_95229239f3e4@cloudshell:~$ gcloud compute instances create --project qwiklabs-gcp-01-25afd165c52c  www1 \
     --zone=us-east1-b \
     --tags=network-lb-tag \
@@ -89,7 +89,7 @@ student_02_95229239f3e4@cloudshell:~$ gcloud compute instances create --project 
 <h3>Web Server: www1</h3>" | tee /var/www/html/index.html'
 ```
 
-```OUTPUT
+```
 Created [https://www.googleapis.com/compute/v1/projects/qwiklabs-gcp-01-25afd165c52c/zones/us-east1-b/instances/www1].
 
 NAME: www1
@@ -101,7 +101,7 @@ EXTERNAL_IP: 34.75.47.25
 STATUS: RUNNING
 ```
 
-```INPUT S2 WW2
+```
   gcloud compute instances create --project qwiklabs-gcp-01-25afd165c52c www2 \
     --zone=us-east1-b \
     --tags=network-lb-tag \
@@ -116,7 +116,7 @@ STATUS: RUNNING
 <h3>Web Server: www2</h3>" | tee /var/www/html/index.html'
 ```
 
-```INPUT S3 WW3
+```
   gcloud compute instances create --project qwiklabs-gcp-01-25afd165c52c www3 \
     --zone=us-east1-b  \
     --tags=network-lb-tag \
@@ -140,7 +140,7 @@ STATUS: RUNNING
 
 > gcloud compute instances list --project qwiklabs-gcp-01-25afd165c52c
 
-```OUTPUT
+```
 student_02_95229239f3e4@cloudshell:~$ gcloud compute instances list --project qwiklabs-gcp-01-25afd165c52c
 NAME: www1
 ZONE: us-east1-b
@@ -196,7 +196,7 @@ Create a static external IP address for your load balancer
 
 > gcloud compute http-health-checks create basic-check
 
-```I/O
+```
 student_02_95229239f3e4@cloudshell:~ (qwiklabs-gcp-01-25afd165c52c)$ gcloud compute http-health-checks create basic-check
 Created [https://www.googleapis.com/compute/v1/projects/qwiklabs-gcp-01-25afd165c52c/global/httpHealthChecks/basic-check].
 NAME: basic-check
