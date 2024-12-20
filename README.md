@@ -27,14 +27,19 @@ Please feel free to learn. Imitation is the highest form of flattery. However, I
 
 ## --- [Advanced] ---
 
-### Cloud Platforms
+### Multi-Cloud
 
-#### GCP - Google Cloud Platform
+#### Google Cloud Platform
 
-* [Cloud Engineer Cert](./cloud/gcp/cloud-engineer-learning-path/learning-path.md)
+* [GCP - Google Cloud Training Table of Content](./cloud/gcp/gcp.md)
+    + Cloud Engineer Cert
+    + Associate Cloud Engineer Cert
+    + Google Cloud Network Architect
 
-* [Associate Cloud Engineer Cert](./cloud/google-cloud-platform/associate-cloud-engineer.md)
+### AWS
 
-## --- [Fun/Miscellaneous ] ---
+### Azure
+
+### Oracle
 
 ---
