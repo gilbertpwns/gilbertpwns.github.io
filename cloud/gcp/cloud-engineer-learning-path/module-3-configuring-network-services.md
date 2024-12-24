@@ -62,4 +62,4 @@ You also protect compute resources from the internet by ensuring that they only 
 
 ---
 
-↩️ [BACK](../../README.md)
+↩️ [BACK](../gcp.md)

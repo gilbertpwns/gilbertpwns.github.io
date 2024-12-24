@@ -1,5 +1,5 @@
-
 ![cactaur-pusheen](./img/cactaur-pusheen.png)
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 Please feel free to learn. Imitation is the highest form of flattery. However, I'd much more prefer and love to hear from you directly, or any feedback in general. Peace be unto you.
 
