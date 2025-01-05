@@ -1,15 +1,13 @@
 ![cactaur-pusheen](./img/cactaur-pusheen.png)
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
-Please feel free to learn. Imitation is the highest form of flattery. However, I'd much more prefer and love to hear from you directly, or any feedback in general. Peace be unto you.
+## Intoductory
 
----
+* [278 Scripting and Programming Foundations](./edu/278/table-of-content.md)
+* [411 Scripting and Automation](./edu/411/411.md)
 
-## --- [Intoductory] ---
 
-* [Scripting and Programming Foundations](./edu/278/table-of-content.md)
-
-### Basic Toolset
+### Toolsets
 
 [Basic Toolset Introductions](./operator/basic-toolset/basic-toolset.md)
 
@@ -20,16 +18,9 @@ Please feel free to learn. Imitation is the highest form of flattery. However, I
 * Network Traffic Analysis
 * Web Proxies 
 
-## --- [Intermediate] ---
+## Cloud Computing
 
-* Local Privilege Escalation - IN PROGRESS
-
-
-## --- [Advanced] ---
-
-### Multi-Cloud
-
-#### Google Cloud Platform
+### Google Cloud Platform
 
 * [GCP - Google Cloud Training Table of Content](./cloud/gcp/gcp.md)
     + Cloud Engineer Cert
@@ -38,8 +29,10 @@ Please feel free to learn. Imitation is the highest form of flattery. However, I
 
 ### AWS
 
+[Work in Progress](./cloud/aws/aws.md)
+
 ### Azure
 
-### Oracle
+[Work in Progress](./cloud/azure/azure.md)
 
 ---
