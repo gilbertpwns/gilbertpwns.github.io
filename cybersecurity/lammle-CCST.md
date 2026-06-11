@@ -8,11 +8,11 @@ This study guide assumes you have experience in IT.
 
 Essential Security Principles
 
-1.1. Define essential security princples
+**1.1. Define essential security princples**
 
 Vulnerabilities, threats, exploits, and risks; attack vectors; hardening; defense-in-depth; confidentiality, integrity, availability (CIA triangle); types of attackers; reasons for attacks; code of ethics
 
-1.2. Explain common threats and vulnerabilities
+**1.2. Explain common threats and vulnerabilities**
 
 Malware, ransomeware, denial of service, botnets, social engineering attacks (tailgating, spear phishing, phishing, vishing, smishing etc.), physical attacks, man in the middle, IoT vulnerabilities, insider threats, APTs
 
@@ -47,5 +47,31 @@ Smaller orgs
 
 
 ### Coordinated Attack
+### Friendly/Unintentional DoS
+### Physical Attack
+### Permanent DoS
+### Smurfing
+### SYN Flood
+### Reflective/Amplified Attack
+
+## DNS
+## NTP
+## DNS Poisoning
+## VLAN Hopping
+## ARP Spoofing
+## Rogue DHCP
+## IOT Vulnerabilities
+## Rogue Access Point (AP)
+## Evil Twin
+## RandsomeWare
+
+### 
+
+## Brute-Force
+## Dictionary
+
+## APT
+
+## Hardening Techniques
 
 ---

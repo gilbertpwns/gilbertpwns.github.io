@@ -1,12 +1,6 @@
 ![cactaur-pusheen](./img/cactaur-pusheen.png)
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
-## Intoductory
-
-* [278 Scripting and Programming Foundations](./edu/278/table-of-content.md)
-* [411 Scripting and Automation](./edu/411/411.md)
-
-
 ### Toolsets
 
 [Basic Toolset Introductions](./operator/basic-toolset/basic-toolset.md)
