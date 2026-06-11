@@ -47,11 +47,23 @@ Smaller orgs
 
 
 ### Coordinated Attack
+
+An unmistakable feature of a DDoS attack in the presence of a coordinated attack. If all bots can be instructed to attack precisely the same timing, the attack becomes much more overwhelming. Timing is key.
+
 ### Friendly/Unintentional DoS
+
+Unintentional DoS attacks (friendly fire) are caused not by malicious actors, but it's a spike in activity to a website or resource that overpowers it's ability to respond.
+
+In many cases it's a relatively unknown URL suddenly shared  in a larger medium such as a popular TV or news show. For example, when a particular celebrity died, Twitter and Google's traffic spiked so severly that at first it was interpreted as an automated attack.
+
 ### Physical Attack
+
 ### Permanent DoS
+
 ### Smurfing
+
 ### SYN Flood
+
 ### Reflective/Amplified Attack
 
 ## DNS
