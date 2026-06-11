@@ -6,6 +6,16 @@ This study guide assumes you have experience in IT.
 
 ### Chapter 1 - Security Concepts
 
+Essential Security Principles
+
+1.1. Define essential security princples
+
+    Vulnerabilities, threats, exploits, and risks; attack vectors; hardening; defense-in-depth; confidentiality, integrity, availability (CIA triangle); types of attackers; reasons for attacks; code of ethics
+
+1.2. Explain common threats and vulnerabilities
+
+Malware, ransomeware, denial of service, botnets, social engineering attacks (tailgating, spear phishing, phishing, vishing, smishing etc.), physical attacks, man in the middle, IoT vulnerabilities, insider threats, APTs
+
 #### **Technology Based Attacks**
 
 * Denial of Service (DoS)/Distributed Denial of Service (DDoS)
@@ -21,5 +31,8 @@ This study guide assumes you have experience in IT.
 
     A botnet is a group of programs connected to the Internet for the purpose of performing a task in a coordinated manner.
     Some botnets, such as those created to maintain control of IRC channels, are legal, where others are illegaly created to leverage a DDoS.
+
+
+#### Steps in building a botnet
 
 ---
