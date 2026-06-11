@@ -18,9 +18,15 @@
 * Network Traffic Analysis
 * Web Proxies 
 
-## Cloud Computing
+## Cisco
 
-### Google Cloud Platform
+Cisco exams are a great way to now learn networking, alonside many other concentrations of IT topics.
+
+### Performing Cybersecurity Using Cisco Security Technologies v1.2 (350-201)
+
+
+
+## Google Cloud Platform
 
 * [GCP - Google Cloud Training Table of Content](./cloud/gcp/gcp.md)
     + Cloud Engineer Cert
