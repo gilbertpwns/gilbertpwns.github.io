@@ -25,19 +25,6 @@ Cisco exams are a great way to now learn networking, alonside many other concent
 ### Performing Cybersecurity Using Cisco Security Technologies v1.2 (350-201)
 
 * [CCST Cisco® Certified - Support Technician](./cybersecurity/lammle-CCST.md)
-## Google Cloud Platform
 
-* [GCP - Google Cloud Training Table of Content](./cloud/gcp/gcp.md)
-    + Cloud Engineer Cert
-    + Associate Cloud Engineer Cert
-    + Google Cloud Network Architect
-
-### AWS
-
-[Work in Progress](./cloud/aws/aws.md)
-
-### Azure
-
-[Work in Progress](./cloud/azure/azure.md)
 
 ---
