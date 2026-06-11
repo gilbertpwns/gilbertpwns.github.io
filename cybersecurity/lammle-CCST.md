@@ -33,5 +33,19 @@ A botnet is a group of programs connected to the Internet for the purpose of per
 
 #### Steps in building a botnet
 
+1. botnet operator sends out viruses or worms whose payloads are malicious applications, the bots, infecting ordinary users' computers.
+2. the bots on the infects PC log into a C&C server
+3. at the right time, attacker, through C&C sends commands to all bots to attack the victim at the same time, thereby significantly amplifying the effect of the attack
+
+### Traffic Spike
+
+One of the hallmarks of a DDoS attack is a major spike in traffic in the network as bots that have been recruited mount the attack. For this reason, any major spike in traffic should truly be investigated.
+
+A network IDS can recognize these traffic spikes and may be able to prevent them from growing larger or in some cases prevent the traffic from starting.
+
+Smaller orgs
+
+
+### Coordinated Attack
 
 ---
