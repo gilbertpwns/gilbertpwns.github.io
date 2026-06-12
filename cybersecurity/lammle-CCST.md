@@ -84,12 +84,30 @@ On a network with hundreds of hosts, this results in major network gridlock beca
 
 ### SYN Flood
 
-### Reflective/Amplified Attack
+A SYN flood is also a DoS Attack that inundates the receiving machine with a lot of packets that cause the victim to waste resources by holding connections open. In normal communications, a workstation wants to opena TCP/IP communication with a server and sends a SYN flag set to 1, as part of the three-way handshake process. 
 
----
+The server automaticall responds to the request indicating that it's ready to start communicating with a SYN-ACK. In the SYN flood, the attacker sends a SYN, the victim sends a return SYN-ACK, and the attacker leaves the victim waiting for the final ACK.
 
-## DNS
-## NTP
+While the server is awaiting the response, a small amount of memory is reserved for it. As the SYNs continue to arrive, memory is gradually consumed.
+
+*Figure 1.3*
+
+![syn flooding](../img/synflood.drawio.png)
+
+You can see that the affected machine can't respond to any other requests because its buffers are already overloaded, and it therefore rejects all packet requesting connections, even valid ones. 
+
+Crafting a firewall rules to prevent flooding of SYN packets may help. However, if the threat actor can coordinate a large number of SYN requests from distributed hosts, a rule doesn't work. Reverse proxies can mitigate this attack.
+
+## Reflective/Amplified Attack
+
+Reflective or reflected attacks increase the effectiveness of a DoS attack. DNS and NTP are functions often leveraged and always used in corporate networks.
+
+### DNS
+
+
+
+### NTP
+
 ## DNS Poisoning
 ## VLAN Hopping
 ## ARP Spoofing
