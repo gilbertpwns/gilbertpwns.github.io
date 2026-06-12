@@ -161,7 +161,11 @@ After the ARP cachce is poisoned on both machines, they will be sending data pac
 
 DHCP is used to automate the process of IP address assignment to host devices. When configured properly, it reduces administrative overhead, reduces human error inherent in manual assignment, and enhances device mobility. But it introduces a vulnerability that when leveraged by malicious individual can result in an inability of hosts to communicate (constituting a DoS attack) and peer-to-peer attacks.
 
+When an illegitimate DHCP server (often called a rogue DHCP server) is introduced to the network, unsuspecting hosts may accept DHCP 'offer' packets from the illegitimate DHCP server rather than the legitimate DHCP server. When this occurs, the rogue DHCP will not only issue the host an incorrect IP address, subnet mask, and default gateway address (which makes peer-to-peer attacks possible); it can also issue an incorrect DNS server address, which will lead to the host relying on the attacker's DNS server for the IP addresses of websites that lead to phishing attacks.
 
+*Figure 1.7*
+
+![Rogue DHCP Server](../img/rogue-dhcp.drawio.png)
 
 ## IOT Vulnerabilities
 
