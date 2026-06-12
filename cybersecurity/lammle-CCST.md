@@ -104,17 +104,55 @@ Reflective or reflected attacks increase the effectiveness of a DoS attack. DNS 
 
 ### DNS
 
+DNS amplification attacks are a form of a reflection attack in that the attacker delivers traffic to the victim by reflecting it off a third party. Reflection conceals the source of the attack and it relies on exploitation of publicly accessible open DNS servers to deluge victims with DNS response traffic.
 
+The attacker will send a small DNS message to an open resolver using the victim's IP address as the source. The type of request used to return all known information about the DNS zone, which allows for the max level of response amplification directed to the victim's server. The attack is magnified by recruiting a botnet to send the small messages to a large list of open resolvers (DNS servers). The response from the DNS server overwhelms the victim. As depicted:
+
+*Figure 1.4*
+
+![DNS Amplification](../img/dns-amplification.drawio.png)
 
 ### NTP
 
+NTP reflection attacks utilize the same process of recruiting bots to aid the attack, the attacks are not reflected off DNS servers, but NTP servers.
+
+NTP protocol servers are used to maintain time synchronization between devices in a network.
+
+The attacker (and accompanying bots) send a small spoofed 8-byte UDP packet to vunerable NTP servers that requests a large amount of data (megabytes worth) be sent to the DDoS' target IP address. The attackers use the *monlist* command, a remote command in older versions of NTP which sends the requester a list of the last 600 hosts that have connected to that server. This attack is prevented by NTP versions 4.2.7 and up (released in 2010).
+
+
+### On-Path Attack (Previous known at MitM)
+
+Intercepting network packets - your data. An on-path attack happens when someone intercepts packets intended for one computer and reads the data. A common guilty party could be someone working for your very own ISP using a packet sniffer (wireshark) and augmenting it with routing and transport protocols. Rogue ATM machines and even credit-card swipers are tools that are increasingly used for this type of attack.
+
+![On-path/MitM](../img/on-path-attack.drawio.png)
+
 ## DNS Poisoning
+
+DNS clients send requests for name to IP address resolution (called queries) to a DNS server. The search for the IP address that goes with a computer or domain name usually starts with a local DNS server that is not authoritative for the DNS domain in which the requested computer or website resides.
+
+When this occurs, the local DNS server makes a request of the DNS server that does not hold the record in question. After the local DNS server maintains that record in its DNS cache for a period called the Time to Live (TTL), which is usually an hour but can vary.
+
+In a DNS cache poisoning attack, the attacker attempts to refresh or update that record when it expires with a different address than the correct address. If the attacker can convince the DNS server to accept this refresh, the local DNS server will then be responding to client requests for that computer with the address inserted by the attacker. Typically, the address they receive is for a fake website that appears to look in every way like the site the client is requesting. The hacker can then harvest all the name and password combinations entered on their fake site. This type of attack is typically in combincation of a DNS cache poisoning attack and a phishing attempt.
+
 ## VLAN Hopping
+
+VLANs are layer 2 segmentation in a switched network. A VLAN may also span multiple switches. When devices are segregated into VLANs, access control lists (ACLs) can be used in a router to control access between VLANs in the same way it is done between real LANs. When VLANs span switches, the connection between the switches is called a trunk link, and it carries the traffic of multiple VLANs. Trunk links are also used for the conection from the switch to a router.
+
+VLAN hopping attacks result in traffic from one VLAN being sent to the wrong VLAN. Normally, this is prevented by the trunking protocol place a VLAN tag in the packet to identify the VLAN to which the traffic belongs.
+
+*Figure 1.6*
+
 ## ARP Spoofing
+
 ## Rogue DHCP
+
 ## IOT Vulnerabilities
+
 ## Rogue Access Point (AP)
+
 ## Evil Twin
+
 ## RandsomeWare
 
 ---
