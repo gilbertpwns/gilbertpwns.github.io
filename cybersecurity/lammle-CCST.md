@@ -31,6 +31,10 @@ Malware, ransomeware, denial of service, botnets, social engineering attacks (ta
 
 A botnet is a group of programs connected to the Internet for the purpose of performing a task in a coordinated manner. Some botnets, such as those created to maintain control of IRC channels, are legal, where others are illegaly created to leverage a DDoS.
 
+*Figure 1.1*
+
+![Botnet](../img/botnet.drawio.png)
+
 #### Steps in building a botnet
 
 1. botnet operator sends out viruses or worms whose payloads are malicious applications, the bots, infecting ordinary users' computers.
@@ -73,6 +77,8 @@ A version of DoS attacks that floods it's victims with spoofed broadcast ping me
 **how it works:** bad guy spoofs the intended victim's IP address and then sends many pings (IP echoes) to IP broadcast address (final IP address in a given subnet). The receiving router responds by delivering the broadcast to all hosts in the subnet, and all the hosts respond with an IP echo reply -- all of them at the same time. 
 
 On a network with hundreds of hosts, this results in major network gridlock because all the machines are kepy busy responding to each echo request. The situation is even worse if the routers have not been configured to keep these types of broadcasts confined to the local subnet (unlikely) 
+
+*Figure 1.2*
 
 ![Smurf Attack](../img/smurf-attack.drawio.png)
 
