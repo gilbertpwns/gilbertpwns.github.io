@@ -143,9 +143,25 @@ VLAN hopping attacks result in traffic from one VLAN being sent to the wrong VLA
 
 *Figure 1.6*
 
+![VLAN hopping](../img/vlan-hopping.drawio.png)
+
+The attacker can circumvent this by a process called double tagging, which is placing a fake VLAN tag into the packet along with the real tag. When the frame goes through multiple switches, the real tag is taken off by the first switch, leaving the fake tag.
+
+When the frame reaches the second switch, the fake tag is read, then the frame is sent to the VLAN to which the hacker intended the frame to go.
+
 ## ARP Spoofing
 
+ARP spoofing is the process of adopting another system's MAC address for the purpose of receiving data meant for that system. It usually also entails ARP cache poisoning. ARP cache poisoning is usually a part of an on-path/man-in-the-middle attack. The ARP cachce contains IP address to MAC address mappings that a device has learned through the ARP process.
+
+One of the ways this cache can be poisoned is by pinging a device with a spoofed IP address. In this way, an attacker can force the victim to insert an incorrect IP address to MAC address mapping into it's ARP cache. If the attacker can accomplish this with two computers having a conversation, they can effectively be placed in the middle of the transmission.
+
+After the ARP cachce is poisoned on both machines, they will be sending data packets to the attacker all the while thinking they are sending them to the other member of the conversation.
+
 ## Rogue DHCP
+
+DHCP is used to automate the process of IP address assignment to host devices. When configured properly, it reduces administrative overhead, reduces human error inherent in manual assignment, and enhances device mobility. But it introduces a vulnerability that when leveraged by malicious individual can result in an inability of hosts to communicate (constituting a DoS attack) and peer-to-peer attacks.
+
+
 
 ## IOT Vulnerabilities
 
