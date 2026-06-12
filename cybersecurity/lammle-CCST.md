@@ -74,7 +74,7 @@ A version of DoS attacks that floods it's victims with spoofed broadcast ping me
 
 On a network with hundreds of hosts, this results in major network gridlock because all the machines are kepy busy responding to each echo request. The situation is even worse if the routers have not been configured to keep these types of broadcasts confined to the local subnet (unlikely) 
 
-
+![Smurf Attack](../img/smurf-attack.drawio.png)
 
 ### SYN Flood
 
