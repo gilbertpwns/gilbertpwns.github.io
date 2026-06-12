@@ -26,3 +26,5 @@ Cisco exams are a great way to now learn networking, alonside many other concent
 
 
 ---
+
+**Disclaimer:** The information, tools, code samples, tutorials, and other content provided on this website/domain are intended solely for educational, research, and authorized security testing purposes. Users are responsible for ensuring that their activities comply with all applicable laws, regulations, and organizational policies. The website/domain owner assumes no liability for any misuse, unauthorized actions, damages, or legal consequences resulting from the use of information obtained from this site.
