@@ -167,7 +167,11 @@ When an illegitimate DHCP server (often called a rogue DHCP server) is introduce
 
 ![Rogue DHCP Server](../img/rogue-dhcp.drawio.png)
 
+Figure 1.7 shows after receiving an incorrection IP address, subnet mask, etc; the DHCP client uses the attacker's DNS server to obtain the IP address of their bank. This leads to the client unwittingly connecting to the attacker's copy of the bank's website. When credentials are entered, the attacker now has the client's bank credentials.
+
 ## IOT Vulnerabilities
+
+The Internet of Things allows appliances of all varieties to connect to the Internet (e.g.: fridge, stove, alarm clock, doorbell). This has led to IoT devices becoming a popular attack vector because they are directly connected on your LAN.
 
 ## Rogue Access Point (AP)
 
