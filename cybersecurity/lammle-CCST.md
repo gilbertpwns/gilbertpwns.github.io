@@ -58,13 +58,29 @@ In many cases it's a relatively unknown URL suddenly shared  in a larger medium 
 
 ### Physical Attack
 
+Physical attacks exist and can be conducted against hardware devices. A damaged device is a bad device but these attacks can be mostly mitigated by preventing all types of unauthorized physical access. 
+
 ### Permanent DoS
 
+A permanent DoS (PDoS) attack is one in which the device is damage and must be replaced. You may think it requires physical access to the device, but it doesn't necessarily. An attack called phlashing attacks the firmware located in systems. Using a fuzzer (introduce errors into) the firmware cause the device to be unusable.
+
+Another approach is to introduce firmware images containing a Trojan or other types of malware.
+
 ### Smurfing
+
+A version of DoS attacks that floods it's victims with spoofed broadcast ping messages. More on spoofing later, for now, understand that it basically steals someone else's IP address.
+
+**how it works:** bad guy spoofs the intended victim's IP address and then sends many pings (IP echoes) to IP broadcast address (final IP address in a given subnet). The receiving router responds by delivering the broadcast to all hosts in the subnet, and all the hosts respond with an IP echo reply -- all of them at the same time. 
+
+On a network with hundreds of hosts, this results in major network gridlock because all the machines are kepy busy responding to each echo request. The situation is even worse if the routers have not been configured to keep these types of broadcasts confined to the local subnet (unlikely) 
+
+
 
 ### SYN Flood
 
 ### Reflective/Amplified Attack
+
+---
 
 ## DNS
 ## NTP
@@ -77,7 +93,7 @@ In many cases it's a relatively unknown URL suddenly shared  in a larger medium 
 ## Evil Twin
 ## RandsomeWare
 
-### 
+---
 
 ## Brute-Force
 ## Dictionary
