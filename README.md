@@ -13,17 +13,6 @@ Cisco exams are a great way to now learn networking, alonside many other concent
 
 ---
 
-### Toolsets
-
-[Basic Toolset Introductions](./#)
-
-* nmap
-* Brute Forcing
-* hashcat
-* SQLMap Essentials
-* Network Traffic Analysis
-* Web Proxies 
-
 ## tools
 
 * [vim](./tools/vim.md)
