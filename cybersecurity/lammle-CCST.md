@@ -182,10 +182,15 @@ The Internet of Things allows appliances of all varieties to connect to the Inte
 ---
 
 ## Brute-Force
+
 ## Dictionary
 
 ## APT
 
 ## Hardening Techniques
+
+---
+
+[👉 Chapter Two: Network Security Devices](./lammle-ch2-devices.md)
 
 ---
