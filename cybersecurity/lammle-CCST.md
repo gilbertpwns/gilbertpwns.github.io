@@ -63,6 +63,6 @@ The last chapter will describe the elements of a cybersecurity incidence respons
 
 ---
 
-[👉 Chapter One: Network Security Devices](./lammle-ch1.)
+[👉 Chapter One: Network Security Devices](./lammle-ch1-sec.md)
 
 ---
