@@ -4,14 +4,14 @@ This study guide assumes you have experience in IT.
 
 ## Study Guide - Cybersecurity Exam
 
-### Chapter 1 - Security Concepts
+### Chapter 3 - IP. IPv6, and NAT
 
 
 
 ---
 
-[👈 Chapter One: Security Concepts](./lammle-CCST.md)
+[👈 Chapter Two: Security Concepts](./lammle-CCST.md)
 
-[👉 Chapter Three: IP, IPv6, NAT]()
+[👉 Chapter Four: Network Device Access]()
 
 ---
