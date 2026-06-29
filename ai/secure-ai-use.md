@@ -1,0 +1,67 @@
+# What is Secure AI Use?
+
+Secure AI use refers to the safe, controlled, and responsible use of AI tools in operational workflows.
+
+In this course the focus isn't on attacking AI systems or exploiting AI applications. Instead,
+
+## Why AI is Used in Operationals Workflows
+
+AI Tools are increasingly being used to assist with daily technical work. They can help teams with:
+
+| Use Case | Examples |
+| :-: | :-: |
+| Script Generation | Creating PS, Bash, or Python Scripts|
+| Log Analysis | Summarizing logs or identifying unusual pattenrs|
+| Detection Engineering | Drafting SIEM queries or detection rules |
+| Troubleshooting | Explaining errors or recommending fixes | 
+| DevSecOps | Generating pipeline checks or infrastructure-as-a-code templates|
+| Security Operations | Summarizing Alerts, Incidents, or investigation notes |
+
+These capabilitiies can improve speed and productivity, especially when teams are handling repetitive or time-sensitive tasks.
+
+## The Core Operational Risk
+
+The main risk is that users may trust AI-generated outputs too quickly.
+
+An AI-generated answer may look correct, sound confident, and appear technically valid, but still contain mistakes. These mistakes can create real operational impact when applied to production systems
+
+For example, an engineer may ask an AI assistant to generate a firewall rule, Terraform Configurations, Powershell script, SIEM query, or Linux command.
+
+
+## 
+
+The output may appear useful, but it could include:
+
+| Risk | Example |
+|:-:|:-:|
+| Invalid Syntax | A command or configuration that fails when executed |
+| Dangerous assumptions | Assuming the wrong cloud region, subnet, service, or permission model |
+| Over-permissive access | Allowing broader access than requested | 
+| Insecure defaults | Disabling encryption, logging, validation, or authentication | 
+| Destrucutive commands | Deleting files, changing permissins, or modifying production resources | 
+| Misleading explanations | giving a confident, explanantion for an incorrect recommendation |
+
+##  AI as an Assistant, Not an Authority
+
+A secure AI workflow assumes that AI-generated output is untrusted until validated.
+
+This does not mean AI is useless or unsafe by default. It means AI should be used in the same way you would use a junior assistant or draft generator: helpful, fast, and useful, but still requiring review.
+
+The human operator remains responsible for deciding whether the output should be used.
+
+##
+
+| Unsafe AI use | Secure AI Use |
+|:-:|:-:|
+| Copying and running AI-generated commands immediately | Reviewing and validating commands before execurtion |
+
+##
+
+
+
+
+
+
+---
+
+
