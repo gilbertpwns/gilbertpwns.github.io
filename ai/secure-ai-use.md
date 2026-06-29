@@ -92,6 +92,41 @@ These are useful areas for AI assistance, but they also introduce operational ri
 **For Example**: An administrator may ask AI to generate a Linux command, firewall rule, PowerShell script, or cloud configuration. If the output is incorrect or unsafe, it could disrupt services or weaken security controls.
 
 
+## AI Risks in IT Operations
+
+In IT Workflows, the main danger is applying AI-generated changes directly to live systems without validation, testing, or rollback planning.
+
+|Risk|Example|
+|:-:|:-:|
+| Sevice disruption |  AI suggests restarting or disabling critical service without understanding dependencies |
+| Misconfiguration | AI generates a firewall rule that allows access from a broader network range than intended. |
+| Data Loss | AI suggests a file cleanup command that deletes more data than expected |
+| Access Exposure | AI creates a user, role, or permission with excessive privileges |
+| Poor troubleshooting | AI recommends changes based on an incorrect assumption about the root cause |
+
+## AI Risks in SOC Workflows
+
+In a SOC environment, AI may be used to summarize alerts, explain log engtries, generate detection rules, write SIEM queries, or assist with incident triage.
+
+The risk is that AI may misunderstand the available evidence or produce inaccurate conclusions.
+
+This can affect investigation quality and response decisions.
+
+## AI RIsks in SOC Workflows
+
+|Risk|Example|
+|:-:|:-:|
+|Missed detections| AI writes a weak query that fails to detect important attack behavior.|
+|False Positives| AI creates an overly broad detection rule that generates excessive noise.|
+|False negatives| AI incorrectly dismisses suspicious activity as benign.|
+|Incorrect triage| AI summarizers an incident incorrectly, causing analysts to prioritize the wrong issue.|
+|Evidence distortion| AI omits important log details or overstates findings that are not supported by evidence.|
+
+Frontier models - or local models
+
+##
+
+
 ---
 
 
