@@ -74,6 +74,17 @@ Escalate failures:
 
 ## Summary
 
+In this course, you learn to use AI responsibly in operational environments.
+
+Explore common AI use cases in IT, SOC, and DevSecOps workflows, understand the risks of hallucinated or unsafe outputs, and learn how to verify AI-generated commands, scripts, queries, and configurations.
+
+You will also learn how to apply safe change management principles, test AI-generated changes in controlled environments, identify sensitive data before using AI, and prevent dangerous AI-generated changes from reaching production systems.
+
+The goal is not to avoid AI entirely. The goal is to use AI saftely, with the right validation, approval, rollback, and data protection controls in place.
+
+
+# The Risks of Using AI in IT, SOC & DevSecOps
+
 
 
 
