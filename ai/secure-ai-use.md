@@ -51,7 +51,7 @@ The human operator remains responsible for deciding whether the output should be
 |:-:|:-:|
 | Copying and running AI-generated commands immediately | Reviewing and validating commands before execurtion |
 | Sharing sensitive logs, credentials, or customer data with AI tools | Classifying data before using it with AI |
-| dApplying generated infrastructure changes directly | Requiring approval before changes are deployed | 
+| Applying generated infrastructure changes directly | Requiring approval before changes are deployed | 
 | Assuming AI output is correct because it sounds confident | Cross-checking against trusted documentation and internal standards|
 | Making changes without a recovery plan | Using rollback and recovery mechanisms|
 
@@ -85,9 +85,11 @@ The goal is not to avoid AI entirely. The goal is to use AI saftely, with the ri
 
 # The Risks of Using AI in IT, SOC & DevSecOps
 
+In IT operations, AI is commonly used for troubleshooting, system administration, automation, and configuration support.
 
+These are useful areas for AI assistance, but they also introduce operational risk when outputs are used without review.
 
-
+**For Example**: An administrator may ask AI to generate a Linux command, firewall rule, PowerShell script, or cloud configuration. If the output is incorrect or unsafe, it could disrupt services or weaken security controls.
 
 
 ---
