@@ -11,6 +11,9 @@ Cisco exams are a great way to now learn networking, alonside many other concent
 
 * [CCST Cisco® Certified - Support Technician](./cybersecurity/lammle-CCST.md)
 
+## ai
+
+* [ai course - secure ai use](./ai/secure-ai-use.md)
 ---
 
 ## tools
@@ -19,8 +22,8 @@ Cisco exams are a great way to now learn networking, alonside many other concent
 
 ## URLs
 
-[Cisco U](https://u.cisco.com/for-you)
-[DevNet](https://developer.cisco.com/site/sandbox/)
+* [Cisco U](https://u.cisco.com/for-you)
+* [DevNet](https://developer.cisco.com/site/sandbox/)
 
 ---
 
