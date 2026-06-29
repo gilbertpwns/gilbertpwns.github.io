@@ -28,8 +28,6 @@ An AI-generated answer may look correct, sound confident, and appear technically
 For example, an engineer may ask an AI assistant to generate a firewall rule, Terraform Configurations, Powershell script, SIEM query, or Linux command.
 
 
-## 
-
 The output may appear useful, but it could include:
 
 | Risk | Example |
@@ -49,13 +47,32 @@ This does not mean AI is useless or unsafe by default. It means AI should be use
 
 The human operator remains responsible for deciding whether the output should be used.
 
-##
-
 | Unsafe AI use | Secure AI Use |
 |:-:|:-:|
 | Copying and running AI-generated commands immediately | Reviewing and validating commands before execurtion |
+| Sharing sensitive logs, credentials, or customer data with AI tools | Classifying data before using it with AI |
+| dApplying generated infrastructure changes directly | Requiring approval before changes are deployed | 
+| Assuming AI output is correct because it sounds confident | Cross-checking against trusted documentation and internal standards|
+| Making changes without a recovery plan | Using rollback and recovery mechanisms|
 
-##
+
+## Principles of Secure AI Use
+
+Secure AI use in IT and security workflows depends several key principles:
+
+Validate before use:
+
+Protect sensitive data:
+
+Test in safe environment:
+
+Require approval for high-impact actions:
+
+Plan for rollback:
+
+Escalate failures:
+
+## Summary
 
 
 
