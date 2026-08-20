@@ -58,4 +58,8 @@ then your automation tool uses this model to send:
 }
 ```  
 
+Imagine you're a network engineer responsible for configuring *hundred of routers* across different locations. Here's how *YANG*, *NETCONF*, *YANG Suite*, and *Python* fit into the picture.
+
+###  :blue_book: YANG = The Blueprint (Configuration Manual)
+
 ---
