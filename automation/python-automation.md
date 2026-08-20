@@ -98,7 +98,7 @@ Imagine you're a network engineer responsible for configuring *hundred of router
 
 ### Conclusion
 
-* **YANG** is liek a form template for network devices - it tells your tools what can be configure, how it should look, and helps automate it safely.
+* **YANG** is like a form template for network devices - it tells your tools what can be configure, how it should look, and helps automate it safely.
 
 
 ---
