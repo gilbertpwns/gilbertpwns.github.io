@@ -56,6 +56,6 @@ then your automation tool uses this model to send:
     }
 
 }
-```
+```  
 
 ---
