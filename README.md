@@ -16,6 +16,10 @@ Cisco exams are a great way to now learn networking, alonside many other concent
 * [secure ai use](./ai/secure-ai-use.md)
 * [exploiting AI systems](./ai/exploiting-ai-systems.md)
 
+## automation
+
+* [network automation](./automation/automation.md)
+
 ## tools
 
 * [vim](./tools/vim.md)
