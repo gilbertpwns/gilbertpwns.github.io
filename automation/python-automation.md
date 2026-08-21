@@ -101,4 +101,97 @@ Imagine you're a network engineer responsible for configuring *hundred of router
 * **YANG** is like a form template for network devices - it tells your tools what can be configure, how it should look, and helps automate it safely.
 
 
+### IETF Model example using NETCONF XML Payload
+
+```
+<config xmlns="urn:ietf:params:xml:ns:netconf:base:1.0">
+    <interfaces xmlns="urn:ietf:params:xml:ns:yang:ietf-interfaces">
+    <interface>
+        <name>GigabitEthernet1</name>
+        <description> Configured via NETCONF using IETF YANG </description>
+        <type xmls:ianaift="urn:ietf:params:xml:ns:yang:iana-if-type">
+            ianaift:ethernetCsmacd
+        </type>
+        <enabled>true</enabled>
+            <ipv4 xmls="urn:ietf:params:xml:ns:yang:ietf-ip">
+                <address>
+                    <ip>192.0.2.1</ip>
+                    <netmask>255.255.255.0</netmask>
+                </address>
+            </ipv4>
+        </interface>
+    </interfaces>
+</config>
+```
+
+## OpenConfig Models (Operator-driven Models)
+
+* Who makes them
+    + A group of large network operators (Google, AT&T, etc.) under the OpenConfig consortium
+* Purpose
+    + To solve real-world operational needs quickly, even before IETF standardizes them.
+* Example Use Cases:
+    + Interface configuration (openconfig-interfaces)
+    + BGP (openconfig-bgp)
+* Advantages
+    + Uses a consistent modeling styles across features
+    + Designed for automation
+* Limitation
+    + Not all vendors support OpenConfig models fully or consistently
+* What this Payload Does?
+    + Configres GigabitEthernet1 with OpenConfig's required config subtree
+    + Enables the interface
+    + Adds a subinterface index 0 (OpenConfig models always use subinterfaces, even if you don't need one).
+    + Assigns IPv4 address 192.0.2.1/24 to subinterface 0
+* Who makes them
+    + Individual vendors Cisco, Juniper, etc
+
+## OpenConfig Model example using NETCONF XML Payload
+
+```
+<config xmlns="urn:ietf:params:xml:ns:netconf:base:1.0">
+    <interfaces xmlns="urn:ietf:params:xml:ns:yang:ietf-interfaces">
+    <interface>
+        <name>GigabitEthernet1</name>
+        <config>
+            <name>GigabitEthernet1</name>
+        <description> Configured via NETCONF using OpenConfig</description>
+        <type xmlns:oc-ift="https://openconfig.net/yang/interfaces"
+            oc-ift:ethernetCsmacd
+        </type>
+        <enabled>true</enabled>
+        </config>
+        <subinterfaces xmlns="https://openconfig.net/yang/interfaces">
+            <subinterface>
+            <index>0</index>
+            <config>
+                <index>0</index>
+            </config>
+            <ipv4 xmls="https://openconfig.net/yang/interfaces/ip">
+                <addresses>
+                    <address>
+                    <ip>192.0.2.1</ip>
+                    <config>
+                        <ip>192.0.2.1</ip>
+                    <prefix-length>24</prefix-length>
+                </config>
+                </address>
+                <addresses>
+            </ipv4>
+            </subinterfaces>
+            </subinterfaces>
+        </interface>
+    </interfaces>
+</config>
+```
+
+### What this payload does?
+
+* enters interfaces GigabitEthernet1
+* adds a description
+* configures IP address and subnet mask
+* issues a no shutdown command to enable the interface
+
+## YANG model components: container, leaf, list, choice, grouping, uses, etc.
+
 ---
