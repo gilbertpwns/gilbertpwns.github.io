@@ -50,6 +50,9 @@ The human operator remains responsible for deciding whether the output should be
 | Unsafe AI use | Secure AI Use |
 |:-:|:-:|
 | Copying and running AI-generated commands immediately | Reviewing and validating commands before execurtion |
+
+
+
 | Sharing sensitive logs, credentials, or customer data with AI tools | Classifying data before using it with AI |
 | Applying generated infrastructure changes directly | Requiring approval before changes are deployed | 
 | Assuming AI output is correct because it sounds confident | Cross-checking against trusted documentation and internal standards|
