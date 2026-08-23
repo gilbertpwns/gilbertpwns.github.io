@@ -21,6 +21,7 @@ Cisco exams are a great way to now learn networking, alonside many other concent
 * [network automation](./automation/python-automation.md)
 * [network automation with netmiko](./automation/python-netmiko.md)
     + [ncclient](./automation/ncclient.md)
+    
 
 ## tools
 
