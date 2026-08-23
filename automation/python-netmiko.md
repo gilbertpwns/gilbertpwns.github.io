@@ -36,7 +36,7 @@
 * Error Handling: Built-in exception handling for authentication, timeouts, and command execution errors.
 * Session Management: Context managers (with statement) for clean connections.
 
-1. import and define device details
+### import and define device details
 
 ```
 from netmiko import ConnectHandler
@@ -49,20 +49,20 @@ cisco_device = {
 }
 ```
 
-2. establish connection:
+### establish connection:
 
 ```
 connection = ConnectHandler(**cisco_device)
 ```
 
-3. send a command
+### send a command
 
 ```
 output = connection.send_command("show ip interface brief")
 print(output)
 ```
 
-4. send configuration
+### send configuration
 
 ```
 config_commands = [
@@ -73,7 +73,7 @@ config_commands = [
 connection.send_config_set(config_command)
 ```
 
-5. Close
+###. Close
 
 ```
 connection.disconnect()
