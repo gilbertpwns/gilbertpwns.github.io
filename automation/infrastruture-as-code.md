@@ -57,8 +57,24 @@ A snowflake device is infrastructure whose state is not derived from a single au
 
 ## Why Snowflakes Exist in Networking
 
-* **Traditional Networking** encourages snowflakes because :
+* **Traditional Networking** encourages snowflakes because:
+    + Imperative CLI Configuration
+        - Engineers configure devices step-by-step:
+    
+```
+conf t
+vlan 10
+name SALES
+interface Gi0/1
+switchport access vlan 10
+```
 
+* each device evolves based on:
+    + who configured it
+    + when
+    + what ticket
+    + what emergency fix
+* there is no global system enforcing consistency
 
 
 
