@@ -75,7 +75,33 @@ switchport access vlan 10
     + what ticket
     + what emergency fix
 * there is no global system enforcing consistency
+* **human drift**
+    + over time:
+        - temporary changes become permanent
+        - emergency fixes are never reverted
+        - interface descriptions differ
+        - routing metrics vary
+        - VLAN naming conventions change
+    + small inconsistencies accumulate
+    + this is called **configuration entropy**
+    + entropy always increases without a controlling system
+* **no source of truth**
+    + in snowflake networks:
+        - the device IS the source of truth
+        - there is no canonical model of intended state
+        - you cannot regenerate the device from a data model
+    + from IaC perspective, that is the **core violation**
 
+## Why Snowflakes are Dangerous
+
+* **non-deterministic behavior**
+    * two "identical" branch routers behave differently
+    * why?
+        + slight ACL difference
+        + hidden route-map
+        + extra static routes
+        + different timers
+    * there is no deterministic model
 
 
 ---
