@@ -102,6 +102,39 @@ switchport access vlan 10
         - extra static routes
         - different timers
     + there is no deterministic model
+* **no reproducibility**:
+    + if a router dies, you cannot:
+        - regenerate it from data
+        - guarantee identical state
+        - validate consistency automatically
+    + you must manually reconstruct
+    + that is **not** IaC
+* **no convergence model**
+    + in **IaC** systems:
+        - you define desired states
+        - systems converge toward it
+    + in **snowflake** networks:
+        - there is no convergence loop
+        - there is only ad-hoc changes
+
+## Snowflake vs IaC Devices
+
+| Snowflake | IaC Device|
+|:-:|:-:|
+| Config built manually | Config is rendered from data model|
+| Device is truth | Git is truth |
+| Changes undocumented | Changes version-controlled |
+| Drift invisible | Drift detectable |
+| Recovery manual | Recovery automated |
+| Unique per device | Pattern-based |
+
+## The Core Technical Issue: Lack of State Control
+
+* snowflake networks lack:
+    + state modeling
+    + state comparison logic
+    + reconciliation loops
+* they are **procedural systems**, not **declarative systems**
 
 
 ---
