@@ -37,6 +37,29 @@ A snowflake device is a network device whose configuration:
 * cannot be reproduced deterministically
 * exists as a unique, fragile artifact
 
+Like a snowflake: 
+
+* it looks normal
+* it works
+* but no two are identical
+* and if it breaks, you can't recreate it easily
+
+The most important difference and perspectice:
+
+A snowflake device is infrastructure whose state is not derived from a single authoritative source of truth and cannot be deterministically reconstructed.
+
+### Key Phrases:
+
+* not declaratively defined
+* not version controlled
+* not reproducible
+* not convergent
+
+## Why Snowflakes Exist in Networking
+
+* **Traditional Networking** encourages snowflakes because :
+
+
 
 
 ---
