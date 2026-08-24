@@ -95,13 +95,13 @@ switchport access vlan 10
 ## Why Snowflakes are Dangerous
 
 * **non-deterministic behavior**
-    * two "identical" branch routers behave differently
-    * why?
-        + slight ACL difference
-        + hidden route-map
-        + extra static routes
-        + different timers
-    * there is no deterministic model
+    + two "identical" branch routers behave differently
+    + why?
+        - slight ACL difference
+        - hidden route-map
+        - extra static routes
+        - different timers
+    + there is no deterministic model
 
 
 ---
