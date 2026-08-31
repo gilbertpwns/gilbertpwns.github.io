@@ -1,7 +1,7 @@
 ![cactaur-pusheen](./img/cactaur-pusheen.png)
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
-## Active Development
+---
 
 ## Cisco
 
@@ -24,6 +24,9 @@ Cisco exams are a great way to now learn networking, alonside many other concent
     + [ncclient](./automation/ncclient.md)
 * [python API engineering for network automation](./automation/python-API-engineering-for-network-automation.md)
 
+## professional penetration testing
+
+* [client side attacks](./cybersecurity/penetration/client-side-attacks.md)
 
 ## tools
 
