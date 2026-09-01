@@ -8,9 +8,9 @@ Welcome to my personal blog, portfolio, and toolkit for computer research, hacki
 
 ---
 
-## Cisco
+## cisco
 
-Cisco exams are a great way to now learn networking, alonside many other concentrations of IT topics.
+cisco exams are a great way to now learn networking, alonside many other concentrations of IT topics.
 
 ### Performing Cybersecurity Using Cisco Security Technologies v1.2 (350-201)
 
@@ -33,6 +33,7 @@ Cisco exams are a great way to now learn networking, alonside many other concent
 
 * [client side attacks](./cybersecurity/penetration/client-side-attacks.md)
     + [ client information gathering](./cybersecurity/penetration/client-side-info-gathering.md)
+    + [ social engineering](./cybersecurity/penetration/social-engineering.md)
 
 ## tools
 
