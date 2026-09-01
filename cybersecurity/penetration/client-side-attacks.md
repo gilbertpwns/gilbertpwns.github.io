@@ -17,5 +17,11 @@
 
 ---
 
+## Prereq
+
+* knowledge of the penetration testing lifecycle
+* basic familiarity of Windows & Linux
+* basic familiarity with Metasploit Framework
+
 
 ---
