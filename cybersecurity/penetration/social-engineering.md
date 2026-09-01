@@ -65,9 +65,16 @@ Thank you,
 
 ## GoPhish 
 
-* Campaign Creation: GoPhish allows users to create customize phishing campaigns tailored to their specific objectives and targets.
-* Email Template Editor: The platform provides
+* **Campaign Creation**: GoPhish allows users to create customize phishing campaigns tailored to their specific objectives and targets.
+* **Email Template Editor**: The platform provides a built-in template editor with a WYSIWYG (What you see is what you get) interface, making it easy to design professional-looking phishing emails that mimic legitimate communications.
+* **Target Management**: Users can manager their target lists and segment them based on various criteria, such as department, role, or location. This allows for targeted phishing campaigns thats closely mirror real-world attack scenarios.
+* **Landing Page Creation**: GoPhish enables users to create phishing landing pages that mimic legitmate login portals or websites. These landing pages can be customized to capture credentials, personal information, or other sensitive data from targets.
+* **Tracking and Reporting**: The platform provides comprehensive tracking and reporting capabilities, allowing users to monitor the progress of their phishing campaigns in real-time. Users can track email opens, link clicks, and submitted data, and generate detailed reports for analysis.
+* **Scheduling and Automation**: GoPhish supports campaign scheduling and automation, allowing users to schedule campaign launches at specific dates and times or set up recurring campaigns for ongoing testing and assessment.
 
+## The Cyber Kill Chain
+
+![The Cyber Kill Chain](../../img/cyber-kill-chain.png)
 
 ---
 
