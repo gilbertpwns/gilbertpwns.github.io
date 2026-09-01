@@ -69,6 +69,7 @@ Client fingerprinting is an active client information gathering technique used t
 ---
 
 🔗 [Client Side Attack Introduction](./client-side-attacks.md)
+
 🔗 [Social Engineering](./social-engineering.md)
 
 🔙 [Homepage](https://gilbertpwns.github.io)
