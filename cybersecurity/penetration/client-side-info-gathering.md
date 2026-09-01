@@ -18,9 +18,20 @@ Passive client information gathering involves collecting data about target users
 
 Active information gathering involves interacting directly with target systems, applications, or users to gather data about their client-side configurations, vulnerabilites, or behaviors. This approach aims to gather information through direct interaction, such as **client/browser fingerprinting**, **banner grabbing**, and **social engineering**.
 
+## Passive Information Gathering
+
 ### Open Source Intelligence (OSINT)
 
----
+* Examples: searching social media platforms (e.g.: LinkedIn, Twitter (x)) for employee profiles, company information, or job postings. 
+* browsing public forums or websites for discussions about the organization or its technologies
+* tools: google dorks for advanced search queries, maltego for data visualization and link analysis, theHarvester for email harvesting
+
+### Serch Engine Reconnaissance
+
+* examples: using advanced search queries on search engines like Google to discover publicly available information about target individuals, organizations, systems
+* tools: google search operators, Shodan Search enginer, DuckDuckGo
+
+## Active Client Information Gathering
 
 
 ---
