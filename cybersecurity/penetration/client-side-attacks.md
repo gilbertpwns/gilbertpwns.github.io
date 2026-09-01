@@ -48,4 +48,21 @@ Client-side attacks refer to techniques and tactics used by attackers to exploit
 
 The objectives of these attacks involve compromising end-user devices, applications or behaviors in order to gain initial access to target systems
 
-In the context on pentesting and red teaming, client-side attacks aim to simulate/emulate real-work threats and assess an organization's security posture by targeting the weakest link in the security chain: **employees**
+In the context on pentesting and red teaming, client-side attacks aim to simulate/emulate real-work threats and assess an organization's security posture by targeting the weakest link in the security chain: **employees** 
+
+## Steps for Client-Side Attacks & Methodology
+
+Step 1: Reconnaisance
+Step 2: Target Identification
+Step 3: Payload/Resource Development
+Step 4: Payload Preparation
+Step 5: Payload Delivery
+Step 6: Payload Execution
+Step 7: Post-Exploitation
+
+![Client Side Attack Method](../../img/client-attack-methodology.png)
+
+## Client Side Attack Vectors
+
+
+---
