@@ -23,5 +23,25 @@
 * basic familiarity of Windows & Linux
 * basic familiarity with Metasploit Framework
 
-
 ---
+
+## learning objectives
+
+- [ ]  You will have an understanding of what Client-Side attacks are and
+the various types of client-side attacks utilized for initial access.
+- [ ]  You will be able to perform client-side information and fingerprinting
+in order to identify key info regarding a target’s client-side
+configuration (browser, OS etc).
+- [ ]  You will have a solid understanding of what Social Engineering is, the
+types of Social Engineering attacks used and the role of pretexting in
+successful social engineering campaigns.
+- [ ]  You will be able to plan, deploy and manage phishing
+exercises/campaigns with tools like GoPhish.
+- [ ]  You will have an understanding of what resource development and
+weaponization are in terms of client-side attacks.
+- [ ]  You will be able to develop your own VBA macros for initial access.
+- [ ]  You will have the ability to leverage functionality like ActiveX Controls
+to control/facilitate macro execution in documents.
+- [ ]  You will be able to develop and customize your own Macro enabled
+MS Office documents for use in obtaining initial access.
+- [ ]  You will be able to leverage HTML Applications for initial access.
