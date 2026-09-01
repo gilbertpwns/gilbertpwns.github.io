@@ -37,11 +37,7 @@ Cisco exams are a great way to now learn networking, alonside many other concent
     + [🔗 client information gathering](./cybersecurity/penetration/client-side-info-gathering.md)
 
 ## tools
-<span class="red-text">This is red</span>
 
-<span class="green-text">This is blue</span>
-
-<span class="highlight">Important text</span>
 * [🔗VIM](./tools/vim.md)
 
 ## External URLs
