@@ -104,4 +104,6 @@ Exploiting vulnerabilities in web browsers or their components (e.g.: plugins, e
 
 ---
 
+🔗[Client Side Information Gathering](./client-side-info-gathering.md)
+
 🔙 [Homepage](https://gilbertpwns.github.io)

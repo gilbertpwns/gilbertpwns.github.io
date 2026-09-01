@@ -23,8 +23,10 @@ Cisco exams are a great way to now learn networking, alonside many other concent
 
 ## automation
 
-* [🔗infrastructure as code](./automation/infrastructure-as-code.md)
-* [🔗network automation](./automation/python-automation.md)
+[🔗infrastructure as code](./automation/infrastructure-as-code.md)
+
+[🔗network automation](./automation/python-automation.md)
+
 * [🔗network automation with netmiko](./automation/python-netmiko.md)
     + [ncclient](./automation/ncclient.md)
 * [🔗python API engineering for network automation](./automation/python-API-engineering-for-network-automation.md)
@@ -32,7 +34,8 @@ Cisco exams are a great way to now learn networking, alonside many other concent
 ## professional penetration testing
 
 * [🔗client side attacks](./cybersecurity/penetration/client-side-attacks.md)
-
+    + [🔗 client information gathering](./cybersecurity/penetration/client-side-info-gathering.md)
+    
 ## tools
 
 * [🔗VIM](./tools/vim.md)
