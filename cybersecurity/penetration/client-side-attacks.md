@@ -86,20 +86,21 @@ Crafted documents (e.g.: Microsoft Office files, PDFs) with embedded macros, scr
 
 Hosting malicious content or exploit kits on compromised or malicious websites to automatically download and execute malware when users visit the site.
 
-### Watering Hole Attacka
+### Watering Hole Attacks
 
 Compromising websites frequented by the target audience and injecting malicious code or links to infect visitor's systems.
 
 ### USB-based Attacks
 
+Distributing malware-infected USB drives or devices in public spaces or targed environments to automatically excute malware when users plug them into their computers
+
 ### Exploit Kits
+
+Using automated kits to target vulnerabilites in web browsers, plugins, or other client-side software, streamlining the process of delivering and executing malicious payloads
 
 ### Browser Exploitation
 
-
-
-
-
+Exploiting vulnerabilities in web browsers or their components (e.g.: plugins, extension) to execute arbitrary code or perform actions on the victim's system.
 
 ---
 

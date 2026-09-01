@@ -14,33 +14,33 @@ Cisco exams are a great way to now learn networking, alonside many other concent
 
 ### Performing Cybersecurity Using Cisco Security Technologies v1.2 (350-201)
 
-* [CCST Cisco® Certified - Support Technician](./cybersecurity/lammle-CCST.md)
+* [🔗CCST Cisco® Certified - Support Technician](./cybersecurity/lammle-CCST.md)
 
 ## ai
 
-* [secure ai use](./ai/secure-ai-use.md)
-* [exploiting AI systems](./ai/exploiting-ai-systems.md)
+* [🔗secure ai use](./ai/secure-ai-use.md)
+* [🔗exploiting AI systems](./ai/exploiting-ai-systems.md)
 
 ## automation
 
-* [infrastructure as code](./automation/infrastructure-as-code.md)
-* [network automation](./automation/python-automation.md)
-* [network automation with netmiko](./automation/python-netmiko.md)
+* [🔗infrastructure as code](./automation/infrastructure-as-code.md)
+* [🔗network automation](./automation/python-automation.md)
+* [🔗network automation with netmiko](./automation/python-netmiko.md)
     + [ncclient](./automation/ncclient.md)
-* [python API engineering for network automation](./automation/python-API-engineering-for-network-automation.md)
+* [🔗python API engineering for network automation](./automation/python-API-engineering-for-network-automation.md)
 
 ## professional penetration testing
 
-* [client side attacks](./cybersecurity/penetration/client-side-attacks.md)
+* [🔗client side attacks](./cybersecurity/penetration/client-side-attacks.md)
 
 ## tools
 
-* [vim](./tools/vim.md)
+* [🔗VIM](./tools/vim.md)
 
-## URLs
+## External URLs
 
-* [Cisco U](https://u.cisco.com/for-you)
-* [DevNet](https://developer.cisco.com/site/sandbox/)
+* [🔗Cisco U](https://u.cisco.com/for-you)
+* [🔗DevNet](https://developer.cisco.com/site/sandbox/)
 
 ## E-Mail Me
 
