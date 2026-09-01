@@ -1,3 +1,8 @@
+
+# Welcome
+
+Welcome to my personal blog, portfolio, and personal toolkit for computer research, hacking and development. Please take a gander at the bottom disclaimer before proceeding and utilize any and all information in this domain with discretion and at your own risk. Thanks for dropping by! :]
+
 ![cactaur-pusheen](./img/cactaur-pusheen.png)
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 

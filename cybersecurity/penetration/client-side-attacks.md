@@ -64,6 +64,42 @@ Step 7: Post-Exploitation
 
 ## Client Side Attack Vectors
 
+What are attack vectors?
+
+In the context of pentesting, an attack vector refers to a path or method used by an attacker to exploit vulnerabilities or weaknesses in a system, network, or application
+
+Attack vectors are the specific avenues through which an attacker gains unauthorized access, achieves malicious objectives, or compromises the security of a target environment.
+
+Here are some of the most common and effective client-side attack vectors used for initial access by attackers or penetration testers:
+
+### Social Engineering
+
+* **Phishing Emails**: deceptive emails with malicious attachments or links to trick users into clicking or downloading malware
+* **Social Media Engineering**: Creating fake profiles to connect with users and deceive them into clicking on malicious links or downloading infected content
+* **Pretexting, Baiting, Tailgating**: various tactics used to manipulate users into divulging sensitive information or performing actions that facilitate the attack
+
+### Malicious Documents/Payloads
+
+Crafted documents (e.g.: Microsoft Office files, PDFs) with embedded macros, scripts, or exploits that execute malicious code upon opening.
+
+### Drive-by Downloads
+
+Hosting malicious content or exploit kits on compromised or malicious websites to automatically download and execute malware when users visit the site.
+
+### Watering Hole Attacka
+
+Compromising websites frequented by the target audience and injecting malicious code or links to infect visitor's systems.
+
+### USB-based Attacks
+
+### Exploit Kits
+
+### Browser Exploitation
+
+
+
+
+
 
 ---
 
