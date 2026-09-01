@@ -14,6 +14,25 @@
 
 ## Pretext Example
 
+A library of pretexts to use on offensive phishing engagements:
+
+[Phishing Pretext Library](https://github.com/L4bF0x/PhishingPretexts/tree/master)
+
+## More Characteristics of Pretexting
+
+* **False Pretense**: The attacker creates a fictional story or pretext to deceive the target into believing that the interaction is legitimate and trustworthy. This pretext often involes impersonating someone with authority, expertise, or legitimate reason for requesting information or assistance.
+* **Establishing Trust**: The attacker uses the pretext to establish a rapport and build trust with the target. This may involve leveraging social engineering techniques, such as mirroring the target's language, tone, and behavior, to create a sense of familiarity and connection.
+* **Manipulating Emotions**: Pretexting often exploits human emotions, such as curiosity, fear, urgency, or sympathy, to manipulate the target's behavior. By appealing to these emotions, the attacker can influence the target's decision-making process and increase compliance with their requests.
+* **Information Gathering**: Once trust is established, the attacker seeks to extract sensitive information or access privileges from the target. This may involve posing as a trusted entity (e.g., colleague, vendor, service, provider) and requesting info under the pretext of a legitiment need or emergency
+* **Maintaining Consistency**: to maintain the illusion of legitimacy, the attacker ensures that the pretext remains consistent and plausible throughout the interaction
+
+## More Examples
+
+* tech support scam
+* job interview scam
+* emergency situation
+* corporate IT department upgrade
+
 I'm not going to get into overly specific details on accomplishing many of these tasks. However, for the lesser known or utilized tactic (pretexting), here's a short examples of e-mail metadata/body:
 
 ```
@@ -44,9 +63,11 @@ If you have additional questions or need clarification, please contact the Help 
 Thank you,
 ```
 
-A library of pretexts to use on offensive phishing engagements:
+## GoPhish 
 
-[Phishing Pretext Library](https://github.com/L4bF0x/PhishingPretexts/tree/master)
+* Campaign Creation: GoPhish allows users to create customize phishing campaigns tailored to their specific objectives and targets.
+* Email Template Editor: The platform provides
+
 
 ---
 
