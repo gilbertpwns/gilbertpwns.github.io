@@ -160,4 +160,4 @@ gcloud compute forwarding-rules create http-content-rule \
    --ports=80
 ---
 
-↩️ [BACK](../cloud-architect/README.md)
+🔙 [Homepage](https://gilbertpwns.github.io)

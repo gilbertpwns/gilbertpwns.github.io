@@ -132,4 +132,4 @@ Frontier models - or local models
 
 ---
 
-🔙 [Homepage](../../README.md)S
+🔙 [Homepage](https://gilbertpwns.github.io)

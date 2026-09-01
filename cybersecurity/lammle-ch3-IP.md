@@ -16,4 +16,4 @@ This study guide assumes you have experience in IT.
 
 ---
 
-🔙 [Homepage](../../README.md)
+🔙 [Homepage](https://gilbertpwns.github.io)

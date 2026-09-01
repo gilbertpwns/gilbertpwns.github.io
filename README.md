@@ -1,7 +1,7 @@
 
 # Welcome
 
-Welcome to my personal blog, portfolio, and toolkit for computer research, hacking and development. Please take a gander at the bottom disclaimer before proceeding and utilize any and all information in this domain with discretion and at your own risk. Thanks for dropping by! :]
+Welcome to my personal blog, portfolio, and toolkit for computer research, hacking and development. Please take a gander at the bottom disclaimer **before proceeding** and utilize any and all information in this domain with discretion and **at your own risk**. Thanks for dropping by! 😊
 
 ![cactaur-pusheen](./img/cactaur-pusheen.png)
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
@@ -41,6 +41,10 @@ Cisco exams are a great way to now learn networking, alonside many other concent
 
 * [Cisco U](https://u.cisco.com/for-you)
 * [DevNet](https://developer.cisco.com/site/sandbox/)
+
+## E-Mail Me
+
+[Contact me](mailto:gilbertpwns@gmail.com?subject=Hello%20from%20gilbertpwns.github.io!...)
 
 ---
 
