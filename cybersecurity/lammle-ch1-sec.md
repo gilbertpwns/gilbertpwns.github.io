@@ -201,6 +201,6 @@ Control and Provisioning of Wireless Access Points
 ---
 [👉 Chapter Two: Network Security Devices](./lammle-ch2-devices.md)
 
-[👉 Chapter Two: Network Security Devices](./lammle-ch2-devices.md)
-
 ---
+
+🔙 [Homepage](../../README.md)
