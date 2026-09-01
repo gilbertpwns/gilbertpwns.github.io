@@ -18,6 +18,8 @@ Passive client information gathering involves collecting data about target users
 
 Active information gathering involves interacting directly with target systems, applications, or users to gather data about their client-side configurations, vulnerabilites, or behaviors. This approach aims to gather information through direct interaction, such as **client/browser fingerprinting**, **banner grabbing**, and **social engineering**.
 
+### Open Source Intelligence (OSINT)
+
 ---
 
 

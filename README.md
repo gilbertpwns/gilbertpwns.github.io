@@ -35,15 +35,20 @@ Cisco exams are a great way to now learn networking, alonside many other concent
 
 * [🔗client side attacks](./cybersecurity/penetration/client-side-attacks.md)
     + [🔗 client information gathering](./cybersecurity/penetration/client-side-info-gathering.md)
-    
-## tools
 
+## tools
+<span class="red-text">This is red</span>
+
+<span class="green-text">This is blue</span>
+
+<span class="highlight">Important text</span>
 * [🔗VIM](./tools/vim.md)
 
 ## External URLs
 
 * [🔗Cisco U](https://u.cisco.com/for-you)
 * [🔗DevNet](https://developer.cisco.com/site/sandbox/)
+* [🔗<span class="green-text">Personal Blog</span>](https://gilbertblogs.github.io/)
 
 ## E-Mail
 
