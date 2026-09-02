@@ -33,7 +33,7 @@ cisco exams are a great way to now learn networking, alonside many other concent
 
 * [client side attacks](./cybersecurity/penetration/client-side/client-side-attacks.md)
     + [ client information gathering](./cybersecurity/penetration/client-side/client-side-info-gathering.md)
-    + [ social engineering](./cybersecurity/penetration/client-side/social-engineering.md
+    + [ social engineering](./cybersecurity/penetration/client-side/social-engineering.md)
 * [powershell for pentesters](./cybersecurity/penetration/powershell/ps-for-pentesting.md)
 
 ## tools
