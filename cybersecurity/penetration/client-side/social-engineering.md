@@ -76,6 +76,8 @@ Thank you,
 
 ![The Cyber Kill Chain](../../img/cyber-kill-chain.png)
 
+
+
 ---
 
 🔗 [Client Side Information Gathering](./client-side-info-gathering.md)
