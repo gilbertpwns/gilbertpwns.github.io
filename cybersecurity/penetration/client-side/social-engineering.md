@@ -74,7 +74,10 @@ Thank you,
 
 ## The Cyber Kill Chain
 
-![The Cyber Kill Chain](../../img/cyber-kill-chain.png)
+![The Cyber Kill Chain](../../../img/cyber-kill-chain.png)
+
+## Weaponization
+
 
 
 
