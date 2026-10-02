@@ -36,6 +36,42 @@ cisco exams are a great way to now learn networking, alonside many other concent
     + [ social engineering](./cybersecurity/penetration/client-side/social-engineering.md)
 * [powershell for pentesters](./cybersecurity/penetration/powershell/ps-for-pentesting.md)
 
+## Networking
+
+* [Switching]
+    - [OSPF](./#)
+    - [EIGRP](./#)
+    - [BGP](./#)
+    - [PBR](./#)
+    - [Redistribution](./#)
+    - [Switching](./#)
+    - [Multilayer Switching](./#)
+    - [CEF](./#)
+    - [Switch Operations](./#)
+    - [DHCP Server](./#)
+    - [Managing Switchports](./#)
+    - [802.1d - STP](./#)
+    - [802.1df - STP Optimizations](./#)
+    - [RSTP](./#)
+    - [MSTP](./#)
+    - [HSRP](./#)
+    - [VRRP](./#)
+    - [GLBP](./#)
+    - [Supervisor Redundancy](./#)
+    - [PoE](./#)
+    - [Voice VLANs](./#)
+    - [Voice QoS](./#)
+    - [WLAN](./#) 
+    - [Securing switchports](./#)
+    - [Securing VLANs](./#)
+
+* [Routing]
+    - [BGP](./#)
+    - [EIGRP](./#)
+    - [OSPF](./#)
+    - [PBR](./#)
+    - [Redistribution](./#)
+
 ## tools
 
 * [VIM](./tools/vim.md)
