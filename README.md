@@ -67,7 +67,7 @@ cisco exams are a great way to now learn networking, alonside many other concent
 
 * [Routing](./#)
     - [BGP](./#)
-    - [EIGRP](./#)
+    - [EIGRP](./networking/route/EIGRP-slide-deck.md)
     - [OSPF](./#)
     - [PBR](./#)
     - [Redistribution](./#)
