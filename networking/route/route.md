@@ -4,7 +4,7 @@
 
 
 * [BGP](./#)
-* [EIGRP](./networking/route/EIGRP-slide-deck.md)
+* [EIGRP](./EIGRP-slide-deck.md)
 * [IPv6 Routing](./#)
 * [OSPF](./#)
 * [PBR](./#)
