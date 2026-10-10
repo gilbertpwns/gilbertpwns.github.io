@@ -2,7 +2,6 @@
 
 ## L2 vs L3
 
-
-🔙 [Homepage](../../README.md)
 ---
 
+🔙 [Homepage](../../README.md)

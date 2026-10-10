@@ -65,7 +65,7 @@ cisco exams are a great way to now learn networking, alonside many other concent
     - [Securing switchports](./#)
     - [Securing VLANs](./#)
 
-* [Routing](./#)
+* [Routing](./networking/route/route.md)
     - [BGP](./#)
     - [EIGRP](./networking/route/EIGRP-slide-deck.md)
     - [OSPF](./#)
