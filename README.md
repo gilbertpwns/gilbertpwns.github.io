@@ -10,7 +10,7 @@ Welcome to my personal blog, portfolio, and toolkit for computer research, hacki
 
 ## cisco
 
-cisco exams are a great way to now learn networking, alonside many other concentrations of IT topics.
+cisco exams are a great way to now learn networking, alongside many other concentrations of IT topics.
 
 ### Performing Cybersecurity Using Cisco Security Technologies v1.2 (350-201)
 
@@ -41,7 +41,7 @@ cisco exams are a great way to now learn networking, alonside many other concent
 * [Switching](./#)
     - [OSPF](./#)
     - [EIGRP](./#)
-    - [BGP](./#)
+    - [BGP](./networking/route/OSPF.md)
     - [PBR](./#)
     - [Redistribution](./#)
     - [Switching](./#)
