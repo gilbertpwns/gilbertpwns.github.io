@@ -1,7 +1,5 @@
 title: gilbert
 description: Personal blog, portfolio, and toolkit for computer research, hacking and development.
-theme: jekyll-theme-primer
-# or:
-# remote_theme: pages-themes/primer
+remote_theme: pages-themes/primer
 plugins:
   - jekyll-remote-theme

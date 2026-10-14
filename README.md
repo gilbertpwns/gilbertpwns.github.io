@@ -39,9 +39,9 @@ cisco exams are a great way to now learn networking, alongside many other concen
 ## Networking
 
 * [Switching](./#)
-    - [OSPF](./#)
+    - [OSPF](./networking/route/OSPF.md)
     - [EIGRP](./#)
-    - [BGP](./networking/route/OSPF.md)
+    - [BGP](./networking/route/BGP.md)
     - [PBR](./#)
     - [Redistribution](./#)
     - [Switching](./#)
