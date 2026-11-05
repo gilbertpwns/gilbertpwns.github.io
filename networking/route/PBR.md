@@ -27,6 +27,7 @@ You can think of a PBR as: "If traffic meets specific conditions, send it somewh
 ## Why Use PBR?
 
 Common enterprise use cases:
+
 |Scenario|Purpose|
 |:-:|:-:|
 |Internet breakout steering| send selected applications out specific ISP circuits|
