@@ -45,7 +45,7 @@ DHCP provides:
 
 Forwards DHCP traffic between VLANs
 
-```Common Cisco Command
+```
 !
 ip helper-address
 !
@@ -63,5 +63,9 @@ interface vlan 10
 ## Discover, Offer, Request, Acknowledge (DORA)
 
 DORA is a quinessential that all Network Engineers should be aware of and understand.
+
+### Cisco IOS DHCP Server Configuration
+
+Small environments often use routers.
 
 ---
