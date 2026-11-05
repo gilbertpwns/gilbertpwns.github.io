@@ -36,23 +36,7 @@ html, body {
   border-radius: 1px;
   position: relative;
 }
-/*
-/* Subtle top toolbar-like bar */
-.markdown-body::before {
-  content: "File   Edit   View   Insert   Format   Styles   Table   Form   Tools   Window   Help";
-  display: block;
-  background: var(--lo-toolbar);
-  border-bottom: 1px solid var(--lo-border);
-  margin: -2.75rem -3.25rem 1.75rem -3.25rem;
-  padding: 0.45rem 1rem;
-  font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
-  font-size: 13px;
-  color: #333;
-  letter-spacing: 0.02em;
-  white-space: nowrap;
-  overflow: hidden;
-}
-*/
+
 
 /* Typography */
 .markdown-body h1,
