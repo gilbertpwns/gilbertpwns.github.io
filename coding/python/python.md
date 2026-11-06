@@ -24,7 +24,7 @@ boolean = True
 
 ## Lists
 
-```
+```python
 interfaces = [
     "Gi1/0/1",
     "Gi1/0/2",
@@ -36,7 +36,7 @@ interfaces = [
 
 This will be used constantly
 
-```
+```python
 device = {
     "hostname": "NYC-SW01",
     "ip": "10.1.1.1",
@@ -48,7 +48,7 @@ print(device["hostname"])
 
 ### Loops
 
-```
+```python
 for interface in interfaces:
     print (interface)
 ```
