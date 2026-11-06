@@ -8,14 +8,6 @@ Welcome to my personal blog, portfolio, and toolkit for computer research, hacki
 
 ---
 
-## cisco
-
-cisco exams are a great way to now learn networking, alongside many other concentrations of IT topics.
-
-### Performing Cybersecurity Using Cisco Security Technologies v1.2 (350-201)
-
-* [CCST Cisco® Certified - Support Technician](./cybersecurity/lammle-CCST.md)
-
 ## ai
 
 * [secure ai use](./ai/secure-ai-use.md)
@@ -28,6 +20,14 @@ cisco exams are a great way to now learn networking, alongside many other concen
 * [network automation with netmiko](./automation/python-netmiko.md)
     + [ncclient](./automation/ncclient.md)
 * [python API engineering for network automation](./automation/python-API-engineering-for-network-automation.md)
+
+## cisco
+
+cisco exams are a great way to now learn networking, alongside many other concentrations of IT topics.
+
+### Performing Cybersecurity Using Cisco Security Technologies v1.2 (350-201)
+
+* [CCST Cisco® Certified - Support Technician](./cybersecurity/lammle-CCST.md)
 
 ## coding
 
