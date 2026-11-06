@@ -29,15 +29,15 @@ cisco exams are a great way to now learn networking, alongside many other concen
     + [ncclient](./automation/ncclient.md)
 * [python API engineering for network automation](./automation/python-API-engineering-for-network-automation.md)
 
-## professional penetration testing
+## coding
 
-* [client side attacks](./cybersecurity/penetration/client-side/client-side-attacks.md)
-    + [ client information gathering](./cybersecurity/penetration/client-side/client-side-info-gathering.md)
-    + [ social engineering](./cybersecurity/penetration/client-side/social-engineering.md)
-* [powershell for pentesters](./cybersecurity/penetration/powershell/ps-for-pentesting.md)
+* [Python](./coding/python/python.md)
+* [Python for Networking](./coding/python/python-for-networking.md)
 
 ## Networking
 
+* [Fundamentals](./networking/fundamentals)
+    - [Binary and Hexidecimal](./#)
 * [Switching](./#)
     - [OSPF](./networking/route/OSPF.md)
     - [EIGRP](./#)
@@ -67,6 +67,13 @@ cisco exams are a great way to now learn networking, alongside many other concen
     - [OSPF](./#)
     - [PBR](./networking/route/PBR.md)
     - [Redistribution](./#)
+
+## professional penetration testing
+
+* [client side attacks](./cybersecurity/penetration/client-side/client-side-attacks.md)
+    + [ client information gathering](./cybersecurity/penetration/client-side/client-side-info-gathering.md)
+    + [ social engineering](./cybersecurity/penetration/client-side/social-engineering.md)
+* [powershell for pentesters](./cybersecurity/penetration/powershell/ps-for-pentesting.md)
 
 ## tools
 
