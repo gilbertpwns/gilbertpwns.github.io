@@ -75,4 +75,33 @@ show_device("NYC-SW01")
 
 ## Learn File Manipulation
 
+```python
+open()
+read()
+write()
+```
+
+```python
+with open("show_version.txt") as file:
+    output = file.read()
+
+print(output)
+```
+
+```python
+with open("report.txt","w") as file:
+    file.write("Audit Complete")
+```
+
+## Error Handling
+
+```python
+try:
+    ip = device["ip"]
+except KeyError:
+    print("IP Missing")
+```
+
+
+
 ---
