@@ -6,7 +6,7 @@ This will be geared toward networking but still follow the general fundamentals 
 
 ### Variables
 
-```
+```python
 hostname = "NYC-SW01"
 ip_address = "10.0.0.1"
 uptime = 356
@@ -55,7 +55,7 @@ for interface in interfaces:
 
 ### Conditions
 
-```
+```python
 status = "down"
 
 if status = "up":
@@ -63,5 +63,16 @@ if status = "up":
 else:
     print("Check circuit")
 ```
+
+### Functions
+
+```python
+def show_device(hostname):
+    print(hostname)
+
+show_device("NYC-SW01")
+```
+
+## Learn File Manipulation
 
 ---
