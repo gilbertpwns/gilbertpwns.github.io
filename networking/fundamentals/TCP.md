@@ -1,4 +1,4 @@
-# TCP - Tranmission Control Protocol
+# TCP - Transmission Control Protocol
 
 Connection-oriented protocol
 
@@ -22,5 +22,10 @@ Connection-oriented protocol
 |                             Payload                              |
 +------------------------------------------------------------------+
 ```
+
+## Three-way Handshake
+
+One of the most important fundamental concepts in networking in my opinion.
+
 
 ---

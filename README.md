@@ -37,7 +37,7 @@ cisco exams are a great way to now learn networking, alongside many other concen
 ## Networking
 
 * [Fundamentals](./networking/fundamentals)
-    - [Binary and Hexidecimal](./#)
+    - [Binary and Hexidecimal](./networking/fundamentals/bin-hex.md)
     - [MAC Addresses](./networking/fundamentals/MAC-address.md)
     - [ARP](./networking/fundamentals/ARP.md)
     - [DNS](./networking/fundamentals/DNS.md)
