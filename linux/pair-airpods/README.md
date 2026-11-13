@@ -80,3 +80,5 @@ The next actions should be performed exactly as described:
 #### Step 8.
 
 Finaly, after all these steps you should find your AirPods on Bluetooth settings section and connect it ;)
+
+---

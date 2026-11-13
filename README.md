@@ -1,4 +1,3 @@
-
 # Welcome
 
 Welcome to my personal blog, portfolio, and toolkit for computer research, hacking and development. Please take a gander at the bottom disclaimer **before proceeding** and utilize any and all information in this domain with discretion and **at your own risk**. Thanks for dropping by! 😊
@@ -21,63 +20,25 @@ Welcome to my personal blog, portfolio, and toolkit for computer research, hacki
     + [ncclient](./automation/ncclient.md)
 * [python API engineering for network automation](./automation/python-API-engineering-for-network-automation.md)
 
-## cisco
-
-cisco exams are a great way to now learn networking, alongside many other concentrations of IT topics.
-
-### Performing Cybersecurity Using Cisco Security Technologies v1.2 (350-201)
-
-* [CCST Cisco® Certified - Support Technician](./cybersecurity/lammle-CCST.md)
-
 ## coding
 
 * [Python](./coding/python/python.md)
 * [Python for Networking](./coding/python/python-for-networking.md)
 
-## Networking
+## cybersecurity
 
-* [Fundamentals](./networking/fundamentals)
-    - [Binary and Hexidecimal](./networking/fundamentals/bin-hex.md)
-    - [MAC Addresses](./networking/fundamentals/MAC-address.md)
-    - [ARP](./networking/fundamentals/ARP.md)
-    - [DNS](./networking/fundamentals/DNS.md)
-    - [TCP](./networking/fundamentals/TCP.md)
-* [Switching](./#)
-    - [OSPF](./networking/route/OSPF.md)
-    - [EIGRP](./#)
-    - [BGP](./networking/route/BGP.md)
-    - [Switching](./#)
-    - [Multilayer Switching](./#)
-    - [CEF](./#)
-    - [Switch Operations](./#)
-    - [DHCP Server](./networking/CCNA/DHCP.md)
-    - [Managing Switchports](./#)
-    - [802.1d - STP](./#)
-    - [802.1df - STP Optimizations](./#)
-    - [RSTP](./#)
-    - [MSTP](./#)
-    - [HSRP, VRRP, GLBP](./#)
-    - [Supervisor Redundancy](./#)
-    - [PoE](./#)
-    - [Voice VLANs](./#)
-    - [Voice QoS](./#)
-    - [WLAN](./#) 
-    - [Securing switchports](./#)
-    - [Securing VLANs](./#)
-
-* [Routing](./networking/route/route.md)
-    - [BGP](./#)
-    - [EIGRP](./networking/route/EIGRP-slide-deck.md)
-    - [OSPF](./#)
-    - [PBR](./networking/route/PBR.md)
-    - [Redistribution](./#)
-
-## professional penetration testing
-
+* [CCST Cisco® Certified - Support Technician](./cybersecurity/lammle-CCST.md)
 * [client side attacks](./cybersecurity/penetration/client-side/client-side-attacks.md)
     + [ client information gathering](./cybersecurity/penetration/client-side/client-side-info-gathering.md)
     + [ social engineering](./cybersecurity/penetration/client-side/social-engineering.md)
 * [powershell for pentesters](./cybersecurity/penetration/powershell/ps-for-pentesting.md)
+
+## networking
+
+### routing and switching
+
+* [CCNA](./networking/CCNA_Enterprise/ccna-toc.md)
+* [CCNP](./networking/CCNP_Enterprise/ccnp-toc.md)
 
 ## tools
 
@@ -87,7 +48,6 @@ cisco exams are a great way to now learn networking, alongside many other concen
 
 * [🔗Cisco U](https://u.cisco.com/for-you)
 * [🔗DevNet](https://developer.cisco.com/site/sandbox/)
-* [🔗🚧 *Work In Progress* - <span class="green-text">Personal Blog</span>](https://gilbertpwns.github.io/gilbertblogs) 
 
 ## E-Mail
 

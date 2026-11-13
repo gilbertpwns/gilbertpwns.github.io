@@ -1,4 +1,4 @@
-# DHCP Server and Config
+# DHCP - Dynamic Host Resolution Protocol
 
 Difficulty: 🟩⬜⬜⬜⬜
 
@@ -69,3 +69,5 @@ DORA is a quinessential that all Network Engineers should be aware of and unders
 Small environments often use routers.
 
 ---
+
+[]
