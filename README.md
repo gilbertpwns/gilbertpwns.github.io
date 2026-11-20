@@ -43,6 +43,7 @@ Welcome to my personal blog, portfolio, and toolkit for computer research, hacki
 ## tools
 
 * [VIM](./tools/vim.md)
+* [powershell](./powershell/powershell.md)
 
 ## **External** URLs
 
