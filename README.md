@@ -9,6 +9,7 @@ Welcome to my personal blog, portfolio, and toolkit for computer research, hacki
 
 ## ai
 
+* [AI foundations for Network Engineers](./ai/ai-foundations.md)
 * [secure ai use](./ai/secure-ai-use.md)
 * [exploiting AI systems](./ai/exploiting-ai-systems.md)
 
