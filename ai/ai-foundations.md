@@ -76,5 +76,47 @@
 # Designing Effective AI Prompts
 
 * prompting as an iterative process
-*
+* refining AI responses
+* using clarifying questions
+* structuring complex requests
+* managing ongoing conversations
+* building reusable prompt libraries
+
+## prompting is an iterative process
+
+1. prompt - provide clear input or request
+2. AI response - AI generates a response
+3. evaluate - review the response and access quality
+4. refine prompt - adjust, add context, or clarify your request
+5. improved response
+
+## refining response
+
+starting a new thread or prompt is not always the best strategy if it's not going the way you'd like. here is some of the options that you would have to move forward with rather than starting a new chat or thread.
+
+* request additional details
+* simply of shorten output
+* correct inaccuracies 
+* change tone or format
+* focus on specific sections
+
+## encourage clarifying questions
+
+* AI cannot read your mind
+* invite questions before answering
+* resolve ambiguity early
+* improve final accuracy
+
+## manage conversations effectively
+
+* build on previous responses
+* maintain consistent objectives
+* correct mistakes immediately
+* restate goals when needed
+
+## build a prompt library
+
+
+
+
 ---
